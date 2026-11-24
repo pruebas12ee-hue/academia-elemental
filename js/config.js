@@ -11,8 +11,8 @@ export const SUPABASE_ANON_KEY = '';
 
 // Datos de contacto que aparecen en la página
 export const CONTACTO = {
-  whatsapp: '',        // ej. '51987654321' (con código de país, sin + ni espacios)
-  telefono: '',        // ej. '987 654 321'
+  whatsapp: '51951010052',      // ej. '51987654321' (con código de país, sin + ni espacios)
+  telefono: '951 010 052',      // ej. '987 654 321'
   direccion: '',       // ej. 'Jr. Ejemplo 123, Huancayo'
   facebook: '',        // enlace completo a tu página
 };
