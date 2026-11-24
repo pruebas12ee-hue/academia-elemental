@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulacros · Academia Elemental</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <main class="seccion">
+    <div class="contenedor">
+      <div class="seccion-titulo">
+        <h2>Simulacros de examen</h2>
+        <p>Exámenes CEPRE pasados · Resuélvelos como si fuera el examen real</p>
+      </div>
+      <div class="rejilla" id="lista-examenes"><p class="cargando">Cargando…</p></div>
+    </div>
+  </main>
+
+  <!-- Ventana para identificarse antes de empezar -->
+  <div class="modal oculto" id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-titulo">
+    <form class="tarjeta" id="form-inicio">
+      <h3 id="modal-titulo" style="color:var(--azul)">Antes de empezar</h3>
+      <p class="tenue" id="modal-examen" style="margin-top:0"></p>
+      <div class="campo">
+        <label for="dni">DNI</label>
+        <input id="dni" inputmode="numeric" maxlength="8" autocomplete="off" required placeholder="8 dígitos">
+      </div>
+      <div class="campo">
+        <label for="nombre">Nombres y apellidos</label>
+        <input id="nombre" required autocomplete="name" placeholder="Ej. María Quispe Rojas">
+      </div>
+      <ul class="reglas">
+        <li>Tienes <b id="modal-tiempo">90</b> minutos. Al llegar a cero, el examen se entrega solo.</li>
+        <li>Cada respuesta correcta vale 1 punto; las incorrectas no restan.</li>
+        <li>Si recargas la página, tu avance no se pierde.</li>
+      </ul>
+      <p class="error" id="error-inicio"></p>
+      <div style="display:flex; gap:10px; justify-content:flex-end; flex-wrap:wrap">
+        <button type="button" class="btn btn-borde" id="cancelar">Cancelar</button>
+        <button class="btn">Comenzar examen</button>
+      </div>
+    </form>
+  </div>
+
+  <script type="module" src="js/simulacros.js"></script>
+</body>
+</html>

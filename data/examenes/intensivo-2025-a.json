@@ -1,0 +1,667 @@
+{
+ "id": "intensivo-2025-a",
+ "titulo": "CEPRE Intensivo 2025 – Área A",
+ "duracion_min": 90,
+ "preguntas": [
+  {
+   "n": 1,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Determina, en qué enunciado se ha utilizado una conjunción concesiva.</p>",
+   "opciones": {
+    "a": "Aunque te vayas muy lejos, seguiré pensando en ti.",
+    "b": "No pretendo honores ni grandes riquezas.",
+    "c": "No es tiempo de lamentarse, sino de luchar.",
+    "d": "No puede existir la paz si no existe la justicia social.",
+    "e": "Apreciamos más lo que hemos conseguido con esfuerzo, ya que nos ha costado lograrlo."
+   }
+  },
+  {
+   "n": 2,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>TÉRMINO EXCLUIDO</p>\n<p>FALACIA</p>",
+   "opciones": {
+    "a": "embuste",
+    "b": "fraude",
+    "c": "desdén",
+    "d": "engaño",
+    "e": "sofisma"
+   }
+  },
+  {
+   "n": 3,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Indica, cuál es la relación semántica que existe entre las siguientes palabras: VIENES – BIENES</p>",
+   "opciones": {
+    "a": "sinónimos",
+    "b": "homógrafos",
+    "c": "parónimos",
+    "d": "homófonos",
+    "e": "antónimos"
+   }
+  },
+  {
+   "n": 4,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>ANALOGÍA</p>\n<p>CORAZÓN : IRRIGACIÓN::</p>",
+   "opciones": {
+    "a": "cerebro : imaginación",
+    "b": "pulmones : respiración",
+    "c": "páncreas : insulina",
+    "d": "vista : percepción",
+    "e": "hígado : secreción"
+   }
+  },
+  {
+   "n": 5,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Completa la siguiente oración con las palabras más apropiadas que le den coherencia y cohesión al texto.</p>\n<p>Un argumento es un ________ que se elabora con la finalidad de ________ una proposición o para ________ al receptor de lo que se afirma en la tesis.</p>",
+   "opciones": {
+    "a": "razonamiento – sustentar – convencer",
+    "b": "texto – exponer – persuadir",
+    "c": "pensamiento – probar – contradecir",
+    "d": "enunciado – aclarar – disuadir",
+    "e": "recurso – cuestionar – demostrar"
+   }
+  },
+  {
+   "n": 6,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>SERIE VERBAL</p>\n<p>Bosque, alfabeto, osamenta, ________.</p>",
+   "opciones": {
+    "a": "estrellas",
+    "b": "premisas",
+    "c": "enciclopedia",
+    "d": "estaciones",
+    "e": "panal"
+   }
+  },
+  {
+   "n": 7,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Para la figura que se muestra, halla “<span class=\"math inline\">\\(x + 5\\)</span>”.</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId21.png\" style=\"width:2.2in;height:0.79279in\" /></p>",
+   "opciones": {
+    "a": "8",
+    "b": "13",
+    "c": "14",
+    "d": "16",
+    "e": "10"
+   }
+  },
+  {
+   "n": 8,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Dados los operadores definidos por:</p>\n<p><span class=\"math display\">\\[\\boxed{a\\quad b} = \\frac{a}{a + b}\\quad\\text{y}\\quad\\boxed{\\begin{matrix}\na \\\\\nb\n\\end{matrix}} = \\frac{b}{a - b},\\]</span></p>\n<p>calcula el valor positivo de “<span class=\"math inline\">\\(a\\)</span>” en la ecuación:</p>\n<p><span class=\"math display\">\\[\\boxed{a\\quad 2} + \\boxed{\\begin{matrix}\na \\\\\n2\n\\end{matrix}} = \\frac{17}{15}\\]</span></p>",
+   "opciones": {
+    "a": "7",
+    "b": "6",
+    "c": "8",
+    "d": "9",
+    "e": "5"
+   }
+  },
+  {
+   "n": 9,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Para la siguiente sucesión literal, determina el siguiente término.</p>\n<p>C ; F ; I ; L ; …</p>",
+   "opciones": {
+    "a": "O",
+    "b": "P",
+    "c": "Q",
+    "d": "M",
+    "e": "N"
+   }
+  },
+  {
+   "n": 10,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>En el cuadro mostrado, la suma de los números ubicados en cada fila, columna y diagonal es la misma. Si <span class=\"math inline\">\\(x\\)</span>, <span class=\"math inline\">\\(y\\)</span>, <span class=\"math inline\">\\(z\\)</span> representan números enteros, halla: <span class=\"math inline\">\\(x^{2} + z^{2} + 3\\)</span>.</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId24.png\" style=\"width:1.1in;height:1.1in\" /></p>",
+   "opciones": {
+    "a": "12",
+    "b": "11",
+    "c": "14",
+    "d": "15",
+    "e": "16"
+   }
+  },
+  {
+   "n": 11,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Al observar mi reloj confundí el minutero con el horario y el horario con el minutero indicando así una hora que es 56 minutos más que la hora real, si en realidad el horario está entre las 5 y 6 y el minutero, entre las 6 y 7, ¿qué hora es en realidad?</p>",
+   "opciones": {
+    "a": "5:35",
+    "b": "5:28",
+    "c": "5:36",
+    "d": "5:32",
+    "e": "5:34"
+   }
+  },
+  {
+   "n": 12,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Pedro le dice a Gabriel: yo peso 40 kg más la mitad de mi peso, este le responde: yo peso 90 kg menos la mitad de mi peso. Determina la suma de los pesos de Pedro y Gabriel.</p>",
+   "opciones": {
+    "a": "140 kg",
+    "b": "120 kg",
+    "c": "110 kg",
+    "d": "150 kg",
+    "e": "130 kg"
+   }
+  },
+  {
+   "n": 13,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>Marca la respuesta correcta.</p>\n<p><strong><em>Is he from Brazil?</em></strong></p>",
+   "opciones": {
+    "a": "<em>Yes, they you India.</em>",
+    "b": "<em>No, like the is Canada.</em>",
+    "c": "<em>No, he’s not. He’s from Ireland.</em>",
+    "d": "<em>Yes, she’s from Mexico.</em>",
+    "e": "<em>No, not he’s she Australia.</em>"
+   }
+  },
+  {
+   "n": 14,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>Traduzca la siguiente pregunta.</p>\n<p><strong><em>When are you coming?</em></strong></p>",
+   "opciones": {
+    "a": "¿Cuándo vienes?",
+    "b": "¿Cómo te sientes?",
+    "c": "¿Por qué ella está llorando?",
+    "d": "¿Quiénes viajarán?",
+    "e": "¿Cuántos años tienes?"
+   }
+  },
+  {
+   "n": 15,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>¿<em>Imaninmi kastilla simipi “tupananchikama” nisqata</em>?</p>",
+   "opciones": {
+    "a": "Hasta mañana.",
+    "b": "Hasta otra semana.",
+    "c": "Hasta otro mes.",
+    "d": "Hasta encontrarnos.",
+    "e": "Hasta otro día."
+   }
+  },
+  {
+   "n": 16,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>¿Cómo se escribe afirmativamente en quechua? “Sí, qué rico”.</p>",
+   "opciones": {
+    "a": "<em>Arí, akakaw.</em>",
+    "b": "<em>Arí, achalaw.</em>",
+    "c": "<em>Arí, ananay.</em>",
+    "d": "<em>Arí, puchkurusqa.</em>",
+    "e": "<em>Arí, añallaw.</em>"
+   }
+  },
+  {
+   "n": 17,
+   "curso": "Aritmética",
+   "enunciado": "<p>Expresa el menor numeral del sistema cuaternario cuya suma de cifras es 300 en el sistema hexadecimal. Dé como respuesta la suma de cifras.</p>",
+   "opciones": {
+    "a": "650",
+    "b": "700",
+    "c": "750",
+    "d": "800",
+    "e": "850"
+   }
+  },
+  {
+   "n": 18,
+   "curso": "Aritmética",
+   "enunciado": "<p>¿Cuántos numerales se escriben con cuatro cifras en base 5 y 7?</p>",
+   "opciones": {
+    "a": "280",
+    "b": "282",
+    "c": "285",
+    "d": "290",
+    "e": "283"
+   }
+  },
+  {
+   "n": 19,
+   "curso": "Aritmética",
+   "enunciado": "<p>Calcula la suma de todos los numerales capicúas de 4 cifras del sistema senario. Dé como respuesta la cifra de orden 4 del resultado.</p>",
+   "opciones": {
+    "a": "1",
+    "b": "0",
+    "c": "2",
+    "d": "5",
+    "e": "3"
+   }
+  },
+  {
+   "n": 20,
+   "curso": "Aritmética",
+   "enunciado": "<p>¿Cuántos números de la forma <span class=\"math inline\">\\(\\overline{ab4}\\)</span> existen que sean <span class=\"math inline\">\\(\\overset{\\circ}{12}\\)</span>?</p>",
+   "opciones": {
+    "a": "15",
+    "b": "14",
+    "c": "16",
+    "d": "17",
+    "e": "19"
+   }
+  },
+  {
+   "n": 21,
+   "curso": "Aritmética",
+   "enunciado": "<p>Se cumple que <span class=\"math inline\">\\(U = \\overset{\\circ}{7} + 3\\)</span>, <span class=\"math inline\">\\(N = \\overset{\\circ}{7} + 5\\)</span> y <span class=\"math inline\">\\(H = \\overset{\\circ}{7} + 2\\)</span>. Halla el número de valores de <span class=\"math inline\">\\(\\overline{pq} = U + N - H\\)</span>.</p>",
+   "opciones": {
+    "a": "15",
+    "b": "13",
+    "c": "11",
+    "d": "10",
+    "e": "16"
+   }
+  },
+  {
+   "n": 22,
+   "curso": "Álgebra",
+   "enunciado": "<p>Calcula el valor de “<span class=\"math inline\">\\(m\\)</span>” de la igualdad.</p>\n<p><span class=\"math display\">\\[m^{m^{m^{\\cdot^{\\cdot^{\\cdot}}}}} = \\left( 42 + \\sqrt{m} \\right)^{\\left( 42 + \\sqrt{m} \\right)^{\\cdot^{\\cdot^{\\cdot}}}}\\]</span></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\sqrt[36]{36}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\sqrt[53]{53}\\)</span>",
+    "c": "<span class=\"math inline\">\\(\\sqrt[49]{49}\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\sqrt[64]{64}\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\sqrt[42]{42}\\)</span>"
+   }
+  },
+  {
+   "n": 23,
+   "curso": "Álgebra",
+   "enunciado": "<p>Si se cumple el valor de <span class=\"math inline\">\\(\\sqrt[9]{\\frac{a^{2}}{b^{2}}} + \\sqrt[9]{\\frac{a}{c}} + \\sqrt[9]{\\frac{b^{2}}{c^{2}}} = 0\\)</span>, determina el valor de <span class=\"math inline\">\\(\\frac{2ac}{b^{2}}\\)</span>.</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\frac{1}{3}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\frac{1}{2}\\)</span>",
+    "c": "3",
+    "d": "2",
+    "e": "<span class=\"math inline\">\\(\\frac{2}{3}\\)</span>"
+   }
+  },
+  {
+   "n": 24,
+   "curso": "Álgebra",
+   "enunciado": "<p>Si al dividir <span class=\"math inline\">\\(\\frac{x^{m} - y^{n}}{x^{3} - y^{5}}\\)</span> se obtiene un cociente notable de 7 términos, ¿cuál es el valor de <span class=\"math inline\">\\(\\frac{3n}{m}\\)</span>?</p>",
+   "opciones": {
+    "a": "5",
+    "b": "10",
+    "c": "15",
+    "d": "20",
+    "e": "25"
+   }
+  },
+  {
+   "n": 25,
+   "curso": "Álgebra",
+   "enunciado": "<p>Halla la suma de coeficientes de todos los factores primos de <span class=\"math inline\">\\(Q(x) = x^{7} - 2x^{5} - 1\\)</span>.</p>",
+   "opciones": {
+    "a": "3",
+    "b": "4",
+    "c": "2",
+    "d": "–2",
+    "e": "–3"
+   }
+  },
+  {
+   "n": 26,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>La tabla muestra la distribución de notas de un examen de la asignatura del primer ciclo, ¿qué tanto por ciento de los estudiantes tuvieron una nota comprendida entre 9 y 18?</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 35%\" />\n<col style=\"width: 62%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\">Nota</th>\n<th style=\"text-align: left;\">N° de estudiantes</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 0;5\\rangle\\)</span></td>\n<td style=\"text-align: left;\">8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 5;10\\rangle\\)</span></td>\n<td style=\"text-align: left;\">15</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 10;15\\rangle\\)</span></td>\n<td style=\"text-align: left;\">17</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 15;20\\rbrack\\)</span></td>\n<td style=\"text-align: left;\">10</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "52 %",
+    "b": "56 %",
+    "c": "50 %",
+    "d": "26 %",
+    "e": "48 %"
+   }
+  },
+  {
+   "n": 27,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>El gráfico muestra el ingreso mensual de las 5 principales clínicas en la ciudad de Huancayo del año 2020, con un total de S/ 18 000 000. Determina la suma del ingreso mayor e ingreso menor de las clínicas.</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId32.png\" style=\"width:1.5in;height:1.5in\" /></p>",
+   "opciones": {
+    "a": "S/ 8 850 000",
+    "b": "S/ 8 700 000",
+    "c": "S/ 8 500 000",
+    "d": "S/ 8 550 000",
+    "e": "S/ 8 750 500"
+   }
+  },
+  {
+   "n": 28,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>El gráfico muestra la distribución de los pesos de 40 personas. Determina la suma de los valores de la moda y el promedio de los pesos de las personas.</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId35.png\" style=\"width:2in;height:1.6383in\" /></p>",
+   "opciones": {
+    "a": "100,25",
+    "b": "101,25",
+    "c": "102,25",
+    "d": "104,25",
+    "e": "105,25"
+   }
+  },
+  {
+   "n": 29,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>En base a una muestra de 320 personas de la población económica activa, se elaboró una gráfica circular sobre el nivel de satisfacción del servicio brindado en un hospital. De los encuestados que señalaron un nivel de satisfacción medio sobre el servicio recibido, un 37,5 % laboran en el sector público, ¿cuántas personas señalaron un nivel de satisfacción medio y laboran en el sector público?</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId38.png\" style=\"width:2in;height:1.17969in\" /></p>",
+   "opciones": {
+    "a": "75",
+    "b": "68",
+    "c": "70",
+    "d": "72",
+    "e": "192"
+   }
+  },
+  {
+   "n": 30,
+   "curso": "Lenguaje",
+   "enunciado": "<p>De acuerdo al punto de articulación, las primeras consonantes que aprendemos son las bilabiales. Identifica en qué alternativa encontramos este tipo de consonantes.</p>",
+   "opciones": {
+    "a": "[s, n]",
+    "b": "[p, b, m]",
+    "c": "[l, r]",
+    "d": "[t, d]",
+    "e": "[k, j]"
+   }
+  },
+  {
+   "n": 31,
+   "curso": "Lenguaje",
+   "enunciado": "<p>Me podría explicar, ¿qué es una palabra polisémica? En esta interrogante, predomina la función ________ del lenguaje.</p>",
+   "opciones": {
+    "a": "metalingüística",
+    "b": "estética",
+    "c": "apelativa",
+    "d": "fática",
+    "e": "representativa"
+   }
+  },
+  {
+   "n": 32,
+   "curso": "Lenguaje",
+   "enunciado": "<p>La tilde diacrítica se utiliza con la finalidad de distinguir las categorías gramaticales. Identifica en qué caso se ha utilizado de manera inapropiada.</p>",
+   "opciones": {
+    "a": "No sé cuándo volverá.",
+    "b": "Quiere que le dé el divorcio.",
+    "c": "Tu hijo es tú fortaleza.",
+    "d": "Se perjudicó a sí mismo con sus acciones.",
+    "e": "Si dudas demasiado, te recomiendo que no aceptes."
+   }
+  },
+  {
+   "n": 33,
+   "curso": "Lenguaje",
+   "enunciado": "<p>¿En qué alternativa encontramos un caso de diptongo decreciente?</p>",
+   "opciones": {
+    "a": "puerto",
+    "b": "taurino",
+    "c": "ciudadano",
+    "d": "cuántico",
+    "e": "triángulo"
+   }
+  },
+  {
+   "n": 34,
+   "curso": "Física",
+   "enunciado": "<p>La resultante de dos vectores de 5 y 10 unidades forma un ángulo de 30° con el vector de mayor longitud, ¿cuál es el menor ángulo que forman dichos vectores?</p>",
+   "opciones": {
+    "a": "30°",
+    "b": "45°",
+    "c": "37°",
+    "d": "60°",
+    "e": "15°"
+   }
+  },
+  {
+   "n": 35,
+   "curso": "Física",
+   "enunciado": "<p>Un par de poleas de radios R y <span class=\"math inline\">\\(r = \\frac{R}{4}\\)</span>, giran por acción de una faja C, si el movimiento de cada polea es uniforme y el periodo de la rotación de la polea mayor es 4 segundos, ¿cuál es el período de la polea de radio menor?</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId43.png\" style=\"width:1.7in;height:1.07681in\" /></p>",
+   "opciones": {
+    "a": "16 s",
+    "b": "8 s",
+    "c": "4 s",
+    "d": "2 s",
+    "e": "1 s"
+   }
+  },
+  {
+   "n": 36,
+   "curso": "Física",
+   "enunciado": "<p>Se lanza un proyectil verticalmente hacia arriba en <span class=\"math inline\">\\(t = 0\\ \\text{s}\\)</span> desde la posición <span class=\"math inline\">\\({\\overrightarrow{r}}_{(0)} = 0\\,\\widehat{j}\\ \\text{m}\\)</span> y cuando el proyectil se encuentra a la mitad de su altura máxima, la rapidez es <span class=\"math inline\">\\(\\sqrt{200}\\ \\text{m/s}\\)</span>. Considerando la aceleración de la gravedad <span class=\"math inline\">\\(\\overrightarrow{g} = - 10\\,\\widehat{j}\\ \\text{m/s}^{2}\\)</span>, determina el vector posición para <span class=\"math inline\">\\(t = 3\\ \\text{s}\\)</span>.</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(10\\,\\widehat{j}\\)</span> m",
+    "b": "<span class=\"math inline\">\\(5\\,\\widehat{j}\\)</span> m",
+    "c": "<span class=\"math inline\">\\(15\\,\\widehat{j}\\)</span> m",
+    "d": "<span class=\"math inline\">\\(- 5\\,\\widehat{j}\\)</span> m",
+    "e": "<span class=\"math inline\">\\(- 10\\,\\widehat{j}\\)</span> m"
+   }
+  },
+  {
+   "n": 37,
+   "curso": "Física",
+   "enunciado": "<p>Una persona mantiene en equilibrio a una barra de 60 kg ejerciéndole una fuerza horizontal (<span class=\"math inline\">\\(\\overrightarrow{F}\\)</span>) cuyo módulo es de 400 N. Calcula el módulo de la reacción en la articulación, si la polea lisa tiene una masa de 10 kg <span class=\"math inline\">\\(\\left( g = 10\\ \\text{m/s}^{2} \\right)\\)</span>.</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId46.png\" style=\"width:1.6in;height:1.50515in\" /></p>",
+   "opciones": {
+    "a": "500 N",
+    "b": "300 N",
+    "c": "400 N",
+    "d": "200 N",
+    "e": "600 N"
+   }
+  },
+  {
+   "n": 38,
+   "curso": "Química",
+   "enunciado": "<p>Indica como cambio químico (Q) o cambio físico (F) según corresponda.</p>\n<p>I) la quema de un papel<br />\nII) la condensación del vapor de agua<br />\nIII) la destrucción de la capa de ozono</p>",
+   "opciones": {
+    "a": "QFF",
+    "b": "QQQ",
+    "c": "QFQ",
+    "d": "FFF",
+    "e": "QQF"
+   }
+  },
+  {
+   "n": 39,
+   "curso": "Química",
+   "enunciado": "<p>Un elemento está constituido por 3 isótopos, si el promedio del número de neutrones es 13 y la suma de sus números másicos es 75, ¿cuál es su número atómico?</p>",
+   "opciones": {
+    "a": "13",
+    "b": "12",
+    "c": "14",
+    "d": "11",
+    "e": "15"
+   }
+  },
+  {
+   "n": 40,
+   "curso": "Química",
+   "enunciado": "<p>Respecto a la tabla periódica moderna, ¿cuántas de las siguientes proposiciones son verdaderas?</p>\n<p>(1) Los llamados elementos de transición interna tienen configuración electrónica que termina en subniveles f.<br />\n(2) Los últimos elementos de la tabla periódica han sido obtenidos artificialmente con grandes aceleradores de partículas, ubicándose en el periodo 7.<br />\n(3) Los gases nobles presentan gran estabilidad química debido a que sus últimas capas presenta un número de electrones igual a ocho con la sola excepción del helio (He) que posee 2 electrones.<br />\n(4) En un grupo la afinidad electrónica aumenta al disminuir el radio atómico.<br />\n(5) En un período aumenta la electronegatividad, afinidad electrónica, potencial de ionización, número atómico, de izquierda a derecha.<br />\n(6) El cesio (Cs) tiene potencial de ionización.</p>",
+   "opciones": {
+    "a": "6",
+    "b": "3",
+    "c": "4",
+    "d": "2",
+    "e": "5"
+   }
+  },
+  {
+   "n": 41,
+   "curso": "Química",
+   "enunciado": "<p>Dado los siguientes compuestos:</p>\n<p>I) AlCl<sub>3</sub>  II) H<sub>2</sub>O  III) N<sub>2</sub>O<sub>4</sub></p>\n<p>¿Cuáles cumplen la regla del octeto como elemento representativo y átomo central?</p>",
+   "opciones": {
+    "a": "II y III",
+    "b": "I",
+    "c": "II",
+    "d": "I y II",
+    "e": "III"
+   }
+  },
+  {
+   "n": 42,
+   "curso": "Química",
+   "enunciado": "<p>Señala el tipo de enlace que debería expresarse para los siguientes compuestos químicos: (I) iónico y (C) covalente.</p>\n<p>I) KBr  II) Na<sub>2</sub>S  III) H<sub>2</sub>S  IV) NaCl  V) BrCl</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 26%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n<col style=\"width: 8%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\">Elemento</th>\n<th style=\"text-align: left;\">K</th>\n<th style=\"text-align: left;\">Na</th>\n<th style=\"text-align: left;\">S</th>\n<th style=\"text-align: left;\">H</th>\n<th style=\"text-align: left;\">Fe</th>\n<th style=\"text-align: left;\">O</th>\n<th style=\"text-align: left;\">Br</th>\n<th style=\"text-align: left;\">Cl</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">Electronegatividad</td>\n<td style=\"text-align: left;\">0,8</td>\n<td style=\"text-align: left;\">0,9</td>\n<td style=\"text-align: left;\">2,5</td>\n<td style=\"text-align: left;\">2,1</td>\n<td style=\"text-align: left;\">1,8</td>\n<td style=\"text-align: left;\">3,5</td>\n<td style=\"text-align: left;\">2,8</td>\n<td style=\"text-align: left;\">3,0</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "C, I, C, I, C",
+    "b": "I, C, C, I, C",
+    "c": "C, C, I, C, I",
+    "d": "I, I, C, I, I",
+    "e": "I, C, I, C, C"
+   }
+  },
+  {
+   "n": 43,
+   "curso": "Química",
+   "enunciado": "<p>Indica verdadero (V) o falso (F) la relación entre fórmula del óxido y la nomenclatura de stock correspondiente.</p>\n<p>A) Cr<sub>2</sub>O<sub>3</sub> – óxido de cromo (IV)<br />\nB) Pb<sub>3</sub>O<sub>4</sub> – óxido de plomo (III)<br />\nC) Fe<sub>2</sub>O<sub>3</sub> – óxido de hierro (III)</p>",
+   "opciones": {
+    "a": "FVF",
+    "b": "VVV",
+    "c": "FVV",
+    "d": "FFF",
+    "e": "FFV"
+   }
+  },
+  {
+   "n": 44,
+   "curso": "Biología",
+   "enunciado": "<p>Indica verdadero (V) o falso (F) y marca la secuencia correcta.</p>\n<p>(  ) La ausencia de calcio y fósforo en la dieta alimenticia puede producir raquitismo en los niños y osteomalasia en los adultos.<br />\n(  ) El fósforo es el elemento que participa en el mantenimiento y la resistencia del esmalte dental a las bacterias que causan caries.<br />\n(  ) El cromo participa con la insulina en el metabolismo de la glucosa, este elemento lo encontramos en cereales, vísceras, aceite vegetal y carnes.<br />\n(  ) Calambres musculares, pérdida del apetito, ritmo cardiaco irregular se da por la deficiencia de potasio.</p>",
+   "opciones": {
+    "a": "VFVV",
+    "b": "VVVV",
+    "c": "FVVV",
+    "d": "VFFV",
+    "e": "VFVF"
+   }
+  },
+  {
+   "n": 45,
+   "curso": "Biología",
+   "enunciado": "<p>Completa según corresponda y marca la respuesta correcta.</p>\n<p>I. Un útero materno después del parto tiene una masa de 1 kg, pero luego de 42 días, 70 gramos. Esto debido a la reducción tisular, por acción de ________.<br />\nII. La mucina es una glucoproteína que lubrica las fosas nasales y las paredes del estómago; además, cumple una función de protección. Esta sustancia es elaborada por el ________.</p>",
+   "opciones": {
+    "a": "las mitocondrias – REL",
+    "b": "las vacuolas – lisosoma",
+    "c": "los ribosomas – ribosoma",
+    "d": "los lisosomas – RER y complejo de Golgi",
+    "e": "los centrosomas – complejo de Golgi"
+   }
+  },
+  {
+   "n": 46,
+   "curso": "Biología",
+   "enunciado": "<p>En el siguiente esquema se observan dos procesos de división celular, ¿cuáles son dichos procesos?</p>\n<p><img src=\"img/examenes/intensivo-2025-a/rId51.png\" style=\"width:1.9in;height:1.26266in\" /></p>",
+   "opciones": {
+    "a": "espermatogénesis – ovogénesis",
+    "b": "mitosis – meiosis",
+    "c": "ovogénesis – espermatogénesis",
+    "d": "meiosis – mitosis",
+    "e": "microgametogénesis – macrogametogénesis"
+   }
+  },
+  {
+   "n": 47,
+   "curso": "Biología",
+   "enunciado": "<p>Relaciona correctamente ambas columnas:</p>\n<table style=\"width:98%;\">\n<colgroup>\n<col style=\"width: 75%\" />\n<col style=\"width: 21%\" />\n</colgroup>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">I. expresión de genotipo</td>\n<td style=\"text-align: left;\">a. genoma</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">II. posición física de un gen</td>\n<td style=\"text-align: left;\">b. gen</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">III. fragmento de ADN</td>\n<td style=\"text-align: left;\">c. fenotipo</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">IV. conjunto de suma total de genes del ADN de un organismo</td>\n<td style=\"text-align: left;\">d. locus</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "Ia, IIb, IIIc, IVd",
+    "b": "IIa, IVb, Ic, IIId",
+    "c": "IIIa, Ib, IIc, IVd",
+    "d": "IVa, IIb, IIIc, Id",
+    "e": "IVa, IIIb, Ic, IId"
+   }
+  },
+  {
+   "n": 48,
+   "curso": "Biología",
+   "enunciado": "<p>Una mujer portadora de la hemofilia y el daltonismo heredó el gen de la hemofilia de su padre y el del daltonismo de su madre. Si se casa con un varón sano, ¿cuál será la proporción de hijas portadoras de la hemofilia y la de los hijos varones sanos?</p>",
+   "opciones": {
+    "a": "25 % – 0 %",
+    "b": "50 % – 100 %",
+    "c": "50 % – 0 %",
+    "d": "50 % – 10 %",
+    "e": "25 % – 50 %"
+   }
+  },
+  {
+   "n": 49,
+   "curso": "Biología",
+   "enunciado": "<p>Indica verdadero (V) o falso (F) según corresponda y marca la respuesta correcta.</p>\n<p>(  ) El ciclo de Krebs es una etapa esencial de la respiración celular aeróbica, generando la mayor parte de la energía celular en forma de ATP.<br />\n(  ) La glucosa no es un proceso esencial en la vida.<br />\n(  ) La enzima succinil – CoA sintetasa convierte el succinil – CoA en succinato, liberando GTP.<br />\n(  ) El succinato se deshidrogena para formar fumarato.</p>",
+   "opciones": {
+    "a": "VFFV",
+    "b": "VVVF",
+    "c": "VVFF",
+    "d": "VFVV",
+    "e": "FVFV"
+   }
+  },
+  {
+   "n": 50,
+   "curso": "Ecología",
+   "enunciado": "<p>Relaciona ambas columnas según corresponda y marca la respuesta correcta.</p>\n<table style=\"width:98%;\">\n<colgroup>\n<col style=\"width: 22%\" />\n<col style=\"width: 76%\" />\n</colgroup>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">1. agua dulce</td>\n<td style=\"text-align: left;\">a. rocas espaciales que ingresa a la atmósfera terrestre</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">2. humedales costeros</td>\n<td style=\"text-align: left;\">b. 2,5 % del agua total del planeta</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">3. mareas</td>\n<td style=\"text-align: left;\">c. zonas de transición entre ambientes marinos y terrestres que poseen agua salobre</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">4. olas de calor</td>\n<td style=\"text-align: left;\">d. generadas por atracción gravitatoria de la Luna</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">5. meteoritos</td>\n<td style=\"text-align: left;\">e. periodos prolongados de temperatura extremadamente altas</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "1a, 2b, 3c, 4d, 5e",
+    "b": "1b, 2c, 3d, 4e, 5a",
+    "c": "1c, 2b, 3d, 4a, 5e",
+    "d": "1e, 2d, 3c, 4b, 5a",
+    "e": "1d, 2a, 3b, 4c, 5e"
+   }
+  },
+  {
+   "n": 51,
+   "curso": "Ecología",
+   "enunciado": "<p>Coloca verdadero (V) o falso (F) según corresponda y marca la respuesta correcta.</p>\n<p>(  ) Lachay, Paracas, Titicaca y Samiria son reservas nacionales.<br />\n(  ) Chacamarca y Machupicchu no son santuarios históricos.<br />\n(  ) Asháninka, purus y cotos de caza son refugios de vida.<br />\n(  ) El cóndor andino, tapir y tortuga carey son animales en peligro de extinción.</p>",
+   "opciones": {
+    "a": "FVVV",
+    "b": "VVVV",
+    "c": "FVVF",
+    "d": "VFVF",
+    "e": "VFFV"
+   }
+  },
+  {
+   "n": 52,
+   "curso": "Sicología",
+   "enunciado": "<p>El método ________, en sicología, permite establecer relaciones de ________. Es aquí donde se provoca deliberadamente bajo determinadas condiciones controladas, la aparición de una conducta.</p>",
+   "opciones": {
+    "a": "genético / efecto – descubrir",
+    "b": "observacional / descubrir – explicar",
+    "c": "correlacional / explicar – relacionar",
+    "d": "experimental / causa – efecto",
+    "e": "experimental / causa – describir"
+   }
+  },
+  {
+   "n": 53,
+   "curso": "Sicología",
+   "enunciado": "<p>Un individuo tiene pensamientos obsesivos de suicidio, cree que su vida no tiene valor, ¿qué campo de la sicología define su anomalía?</p>",
+   "opciones": {
+    "a": "sicología clínica",
+    "b": "sicología comunitaria",
+    "c": "sicología social",
+    "d": "sicología educacional",
+    "e": "sicología patológica"
+   }
+  },
+  {
+   "n": 54,
+   "curso": "Sicología",
+   "enunciado": "<p>¿Es el estudio teórico y experimental del desarrollo de las estructuras intelectuales, propone cuatro periodos de desarrollo del pensamiento: sensomotriz, preoperacional, operaciones concretas y formales?</p>",
+   "opciones": {
+    "a": "el sicoanálisis",
+    "b": "sicología humanista",
+    "c": "sicología cognitiva",
+    "d": "sicología genética",
+    "e": "el conductismo"
+   }
+  },
+  {
+   "n": 55,
+   "curso": "Sicología",
+   "enunciado": "<p>La ________ comprende las siguientes alteraciones: agnosia y convicción corporal sin sensación; intensidad, cualidad y asociación anormales de las sensaciones, percepción alterada de la forma espacial, extrañeza de lo percibido, seudopercepciones y anomalías propias de cada sentido.</p>",
+   "opciones": {
+    "a": "sicopatología de la memoria",
+    "b": "sicopatología de la percepción",
+    "c": "sicopatología de la atención",
+    "d": "sicopatología de las creaciones",
+    "e": "sicopatología del estímulo"
+   }
+  }
+ ]
+}

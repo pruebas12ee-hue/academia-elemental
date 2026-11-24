@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academia Elemental · Preparación CEPRE</title>
+  <meta name="description" content="Academia Elemental: ciclos de preparación preuniversitaria y simulacros de examen CEPRE con nota y cronómetro.">
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <main>
+    <!-- PORTADA -->
+    <section class="portada">
+      <div class="contenedor portada-in">
+        <div>
+          <h1>Alta educación,<br><span>futuro a la acción.</span></h1>
+          <p>Prepárate para el examen CEPRE con nuestros ciclos y practica con exámenes
+             pasados como si fuera el día del examen: con cronómetro, nota sobre 20 y revisión de cada pregunta.</p>
+          <div class="acciones">
+            <a class="btn" href="simulacros.html">Dar un simulacro</a>
+            <a class="btn btn-borde" href="#ciclos">Ver ciclos</a>
+          </div>
+        </div>
+        <img class="portada-logo" src="img/logo.png" alt="Logo de Academia Elemental" width="520" height="671">
+      </div>
+    </section>
+
+    <!-- CICLOS (se llenan desde la base de datos con js/inicio.js) -->
+    <section class="seccion" id="ciclos">
+      <div class="contenedor">
+        <div class="seccion-titulo">
+          <h2>Nuestros ciclos</h2>
+          <p>Fechas de inscripción e inicio de clases</p>
+        </div>
+        <div class="rejilla" id="lista-ciclos">
+          <p class="cargando">Cargando ciclos…</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- POR QUÉ ELEGIRNOS -->
+    <section class="seccion">
+      <div class="contenedor">
+        <div class="seccion-titulo"><h2>¿Por qué Academia Elemental?</h2></div>
+        <div class="rejilla">
+          <div class="tarjeta beneficio">
+            <div class="icono">⏱</div>
+            <h3>Simulacros reales</h3>
+            <p>Exámenes CEPRE pasados con el mismo tiempo y formato del examen de admisión.</p>
+          </div>
+          <div class="tarjeta beneficio">
+            <div class="icono">📊</div>
+            <h3>Conoce tus resultados</h3>
+            <p>Nota al instante, aciertos por curso y revisión de cada pregunta en la que fallaste.</p>
+          </div>
+          <div class="tarjeta beneficio">
+            <div class="icono">📈</div>
+            <h3>Sigue tu avance</h3>
+            <p>Tu historial guarda todos tus simulacros para que veas cómo vas mejorando.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="seccion">
+      <div class="contenedor">
+        <div class="banda">
+          <div>
+            <h2>¿Listo para ponerte a prueba?</h2>
+            <p>55 preguntas · 1 hora 30 minutos · nota sobre 20</p>
+          </div>
+          <a class="btn btn-azul" href="simulacros.html">Empezar simulacro</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="js/inicio.js"></script>
+</body>
+</html>

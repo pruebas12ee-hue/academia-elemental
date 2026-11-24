@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel docente · Academia Elemental</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <main class="seccion">
+    <div class="contenedor">
+
+      <!-- Inicio de sesión -->
+      <form class="tarjeta oculto" id="form-login" style="max-width:420px;margin:0 auto">
+        <h2>Acceso docentes</h2>
+        <div class="campo"><label for="email">Correo</label><input id="email" type="email" required autocomplete="username"></div>
+        <div class="campo"><label for="clave">Contraseña</label><input id="clave" type="password" required autocomplete="current-password"></div>
+        <p class="error" id="error-login"></p>
+        <button class="btn btn-azul" style="width:100%">Entrar</button>
+        <p class="tenue demo-solo" style="font-size:.85rem;margin-bottom:0">Modo demostración: escribe cualquier correo y contraseña.</p>
+      </form>
+
+      <!-- Panel -->
+      <div id="panel" class="oculto">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap">
+          <h2 style="margin:0">Panel docente</h2>
+          <div><span class="tenue" id="usuario"></span> <button class="btn btn-chico btn-borde" id="salir">Salir</button></div>
+        </div>
+        <div class="pestanas" role="tablist" style="margin-top:16px">
+          <button role="tab" data-tab="ciclos" aria-selected="true">Ciclos</button>
+          <button role="tab" data-tab="alumnos" aria-selected="false">Alumnos</button>
+          <button role="tab" data-tab="asistencia" aria-selected="false">Asistencia</button>
+          <button role="tab" data-tab="resultados" aria-selected="false">Resultados</button>
+          <button role="tab" data-tab="claves" aria-selected="false">Claves</button>
+        </div>
+        <section id="tab-contenido"></section>
+      </div>
+
+    </div>
+  </main>
+  <script type="module" src="js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,667 @@
+{
+ "id": "regular-2026-ii-a",
+ "titulo": "CEPRE Regular 2026-II – Área A",
+ "duracion_min": 90,
+ "preguntas": [
+  {
+   "n": 1,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Las homófonas son palabras que tienen igual sonido, pero de distinta grafía/significado. Según esto, marque en la alternativa que no contenga un caso de este tipo de palabras.</p>",
+   "opciones": {
+    "a": "pollo – poyo",
+    "b": "risa – riza",
+    "c": "vaca – baca",
+    "d": "aprehender – aprender",
+    "e": "bezo – beso"
+   }
+  },
+  {
+   "n": 2,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>La analogía es la relación de identidad entre palabras distintas. Puede determinarse vínculos de causa, hiponimia u otras. Según lo anterior, marque en la pareja análoga.</p>\n<p>CAMELLO : DROMEDARIO::</p>",
+   "opciones": {
+    "a": "islamismo : cristianismo",
+    "b": "biología : ciencia",
+    "c": "planeta : Tierra",
+    "d": "burro : asno",
+    "e": "puma : tigre"
+   }
+  },
+  {
+   "n": 3,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>¿Qué palabra continúa en la serie verbal?</p>\n<p>timorato, temerario, zaherir, __________</p>",
+   "opciones": {
+    "a": "criticar",
+    "b": "elogiar",
+    "c": "amordazar",
+    "d": "rivalizar",
+    "e": "obviar"
+   }
+  },
+  {
+   "n": 4,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Complete con los conectores apropiados.</p>\n<p>________ ganar el campeonato, no es suficiente contratar a un buen entrenador, ________ abundan los buenos técnicos; ________, una buena plana de jugadores ________ partidos amistosos internacionales sería lo más recomendable.</p>",
+   "opciones": {
+    "a": "Para – ya que – por eso – o",
+    "b": "Pese a – pues – por ello – y",
+    "c": "Aun cuando – porque – y – o",
+    "d": "A pesar de – por que – por tanto – y",
+    "e": "Con el fin de – puesto que – si y solo si – o"
+   }
+  },
+  {
+   "n": 5,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Determine el número total de tildes diacríticas que se requiere en el presente texto.</p>\n<p>Los mas estan en contra de mi posición … lo se. Creen que yo quiero todo para mi. Un sinfin de socios me dijo esto, mas no me afecta. Aun la prensa superficial se esmera en repetirlo. Y yo feliz en lo mio.</p>",
+   "opciones": {
+    "a": "7",
+    "b": "5",
+    "c": "3",
+    "d": "6",
+    "e": "4"
+   }
+  },
+  {
+   "n": 6,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>La mejor interpretación del presente refrán es</p>\n<p><em>“Más vale ser cabeza de ratón que cola de león”.</em></p>",
+   "opciones": {
+    "a": "Pese a todo, siempre debemos liderar.",
+    "b": "Lo mejor es no subyugarse a nadie.",
+    "c": "Siempre aspiremos a lo mejor.",
+    "d": "Los grupos influyen en la persona.",
+    "e": "El reto mayor: ser el mejor siempre."
+   }
+  },
+  {
+   "n": 7,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>En la copa Perú se juega un triangular entre los equipos “CS Diablos Rojos”, “Sport Machete” y “CD ANBA”. La tabla queda de la siguiente manera:</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 51%\" />\n<col style=\"width: 22%\" />\n<col style=\"width: 22%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\">Equipos</th>\n<th style=\"text-align: left;\">GF</th>\n<th style=\"text-align: left;\">GC</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">CS Diablos Rojos</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">5</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">Sport Machete</td>\n<td style=\"text-align: left;\">4</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">CD ANBA</td>\n<td style=\"text-align: left;\">4</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n</tbody>\n</table>\n<p>GF: goles a favor  GC: goles en contra</p>\n<p>¿Cuántos goles se anotaron en el partido CS Diablos Rojos vs Sport Machete?</p>",
+   "opciones": {
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "e": "5"
+   }
+  },
+  {
+   "n": 8,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Killa tiene <span class=\"math inline\">\\((2x - 3)\\)</span>, <span class=\"math inline\">\\((x + 2)\\)</span> y <span class=\"math inline\">\\((x + 1)\\)</span> billetes de 10, 20 y 50 soles respectivamente. Si ella cambiara todo su dinero en el menor número de billetes de 10 soles, el número de billetes obtenidos sería <span class=\"math inline\">\\((x + 30)\\)</span>, sabiendo que los <span class=\"math inline\">\\(\\frac{2}{3}\\)</span> de lo que gasta equivale a lo que no gastó. ¿Cuánto le queda?</p>",
+   "opciones": {
+    "a": "S/ 330",
+    "b": "S/ 198",
+    "c": "S/ 34",
+    "d": "S/ 332",
+    "e": "S/ 132"
+   }
+  },
+  {
+   "n": 9,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Las edades de cinco personas son números consecutivos. Si la suma de los cuadrados de los 2 mayores de dichos números es igual a la suma de los cuadrados de los otros 3, determine la suma de las cinco edades dentro de 5 años.</p>",
+   "opciones": {
+    "a": "75",
+    "b": "70",
+    "c": "85",
+    "d": "80",
+    "e": "60"
+   }
+  },
+  {
+   "n": 10,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Sea el cuadrado mágico aditivo:</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId21.png\" style=\"width:1.1in;height:1.1in\" /></p>\n<p>halle la suma común.</p>",
+   "opciones": {
+    "a": "90",
+    "b": "92",
+    "c": "91",
+    "d": "81",
+    "e": "93"
+   }
+  },
+  {
+   "n": 11,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Calcule el doble del ángulo transcurrido por el horario desde las 7:00 hasta las 7:22.</p>",
+   "opciones": {
+    "a": "10°",
+    "b": "22°",
+    "c": "11°",
+    "d": "12°",
+    "e": "0°"
+   }
+  },
+  {
+   "n": 12,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>¿Cuál es el valor de <span class=\"math inline\">\\(x\\)</span>?</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId24.png\" style=\"width:2.3in;height:0.90204in\" /></p>",
+   "opciones": {
+    "a": "5",
+    "b": "6",
+    "c": "4",
+    "d": "8",
+    "e": "7"
+   }
+  },
+  {
+   "n": 13,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>When Eric Whitacre ________ for the first time, He likes it.</p>",
+   "opciones": {
+    "a": "write music",
+    "b": "sing with a choir",
+    "c": "met a conductor",
+    "d": "he loves it",
+    "e": "read music"
+   }
+  },
+  {
+   "n": 14,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>________ makes it possible for people all over the world to join Eric Whitacre’s virtual choir.</p>",
+   "opciones": {
+    "a": "Pop music",
+    "b": "College",
+    "c": "The Internet",
+    "d": "The music",
+    "e": "The composer and conductor"
+   }
+  },
+  {
+   "n": 15,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>¿Maypitaq achka rimay kachkan?</p>",
+   "opciones": {
+    "a": "qampiq wasi",
+    "b": "hampiq wasinmi",
+    "c": "qampip wasicha",
+    "d": "hampiq wasikunaraq",
+    "e": "hampiq wasikuna"
+   }
+  },
+  {
+   "n": 16,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>¿Imaynatataq qillqanchikman “yo soy doctor” qichwa simipi?</p>",
+   "opciones": {
+    "a": "Ñuqa kani hampiq runa.",
+    "b": "Ñuqa hampikuni.",
+    "c": "Ñuqa kani doctor.",
+    "d": "Ñuqa kani qampiq runa.",
+    "e": "Ñuqa kani qampiq runaraqmi."
+   }
+  },
+  {
+   "n": 17,
+   "curso": "Aritmética",
+   "enunciado": "<p>Halle la expresión equivalente que representa al circuito.</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId30.png\" style=\"width:2in;height:0.82883in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(p \\land \\sim q\\)</span>",
+    "b": "<span class=\"math inline\">\\(q\\)</span>",
+    "c": "<span class=\"math inline\">\\(p\\)</span>",
+    "d": "<span class=\"math inline\">\\(p \\land q\\)</span>",
+    "e": "<span class=\"math inline\">\\(p \\vee q\\)</span>"
+   }
+  },
+  {
+   "n": 18,
+   "curso": "Aritmética",
+   "enunciado": "<p>Sea <span class=\"math inline\">\\(P = \\left\\{ \\left( \\frac{x^{3} - 1}{3} \\right) \\in \\mathbb{Z}\\,/\\, x \\in \\mathbb{Z} \\land - 5 \\leq x \\leq 6 \\right\\}\\)</span></p>\n<p>indique la suma de los elementos de P.</p>",
+   "opciones": {
+    "a": "–26",
+    "b": "24",
+    "c": "20",
+    "d": "–20",
+    "e": "–24"
+   }
+  },
+  {
+   "n": 19,
+   "curso": "Aritmética",
+   "enunciado": "<p>Si el numeral <span class=\"math inline\">\\(110122110021_{(n)}\\)</span> se expresa en base <span class=\"math inline\">\\(n^{3}\\)</span>, la suma de cifras aumenta en 36. Calcule, cuántas capicúas de cinco cifras existen en base “<span class=\"math inline\">\\(n\\)</span>”.</p>",
+   "opciones": {
+    "a": "18",
+    "b": "12",
+    "c": "16",
+    "d": "8",
+    "e": "27"
+   }
+  },
+  {
+   "n": 20,
+   "curso": "Aritmética",
+   "enunciado": "<p>¿Cuántos números de cuatro cifras existen tales que en base 17 terminen en cero?</p>",
+   "opciones": {
+    "a": "240",
+    "b": "530",
+    "c": "430",
+    "d": "520",
+    "e": "510"
+   }
+  },
+  {
+   "n": 21,
+   "curso": "Aritmética",
+   "enunciado": "<p>Al determinar el MCD de <span class=\"math inline\">\\(\\overline{mn8}\\)</span> y <span class=\"math inline\">\\(\\overline{nn1}\\)</span> se obtuvieron como cocientes sucesivos 3, 3, 2 y 2. Calcule <span class=\"math inline\">\\(m^{n}\\)</span> si además <span class=\"math inline\">\\(m &gt; n\\)</span>.</p>",
+   "opciones": {
+    "a": "36",
+    "b": "9",
+    "c": "49",
+    "d": "16",
+    "e": "25"
+   }
+  },
+  {
+   "n": 22,
+   "curso": "Álgebra",
+   "enunciado": "<p>Sean <span class=\"math inline\">\\(n \\in \\mathbb{N}\\)</span> tal que <span class=\"math inline\">\\(\\left( n^{4n^{- 1}} \\right)^{n} = 2401\\)</span></p>\n<p>¿cuál es el valor de <span class=\"math inline\">\\(\\frac{n^{2} - n - 2}{n + 1}\\)</span>?</p>",
+   "opciones": {
+    "a": "3",
+    "b": "6",
+    "c": "4",
+    "d": "5",
+    "e": "7"
+   }
+  },
+  {
+   "n": 23,
+   "curso": "Álgebra",
+   "enunciado": "<p>Sea <span class=\"math inline\">\\(f(x)\\)</span> un polinomio que cumple con <span class=\"math inline\">\\(f(x + 3) = 7f(x) - 3f(x - 3)\\)</span>, además <span class=\"math inline\">\\(f(2) = 2\\)</span> y <span class=\"math inline\">\\(f(8) = 8\\)</span>. Calcule el valor de <span class=\"math inline\">\\(5f(5)\\)</span>.</p>",
+   "opciones": {
+    "a": "8",
+    "b": "14",
+    "c": "10",
+    "d": "16",
+    "e": "12"
+   }
+  },
+  {
+   "n": 24,
+   "curso": "Álgebra",
+   "enunciado": "<p>Dado los números <span class=\"math inline\">\\(m = 3 + \\sqrt{8}\\)</span> y <span class=\"math inline\">\\(n = 3 - \\sqrt{8}\\)</span>, calcule el valor de</p>\n<p><span class=\"math display\">\\[\\left\\lbrack \\frac{m(n + 1)}{m - n} + \\frac{n(m + 1)}{n - m} \\right\\rbrack^{mn}\\]</span></p>",
+   "opciones": {
+    "a": "1",
+    "b": "3",
+    "c": "5",
+    "d": "2",
+    "e": "4"
+   }
+  },
+  {
+   "n": 25,
+   "curso": "Álgebra",
+   "enunciado": "<p>Luego de factorizar el polinomio:</p>\n<p><span class=\"math display\">\\[P(x) = x^{4} + 2x^{3} - 25x^{2} - 26x + 120\\]</span></p>\n<p>indique la suma de coeficientes de un factor primo.</p>",
+   "opciones": {
+    "a": "2",
+    "b": "4",
+    "c": "5",
+    "d": "7",
+    "e": "3"
+   }
+  },
+  {
+   "n": 26,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>Si la media geométrica de dos números es 8 veces la media armónica de dichos números, halle la suma de las razones geométricas que se puedan formar con dichos números.</p>",
+   "opciones": {
+    "a": "512",
+    "b": "256",
+    "c": "254",
+    "d": "250",
+    "e": "510"
+   }
+  },
+  {
+   "n": 27,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>Dada la distribución de los empleados de una industria por sueldos mensuales en dólares, ¿qué porcentaje ganan 200 dólares a más?</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 56%\" />\n<col style=\"width: 40%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\">Clases</th>\n<th style=\"text-align: left;\">Frecuencias</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">Menos de 45</td>\n<td style=\"text-align: left;\">10</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">45 a menos de 90</td>\n<td style=\"text-align: left;\">15</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">90 a menos de 135</td>\n<td style=\"text-align: left;\">36</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">135 a menos de 200</td>\n<td style=\"text-align: left;\">58</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">200 a menos de 300</td>\n<td style=\"text-align: left;\">82</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\">300 a menos de 345</td>\n<td style=\"text-align: left;\">11</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\">345 a más</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "56,25 %",
+    "b": "71,63 %",
+    "c": "47,26 %",
+    "d": "39,74 %",
+    "e": "44,65 %"
+   }
+  },
+  {
+   "n": 28,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>Del siguiente histograma:</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId35.png\" style=\"width:1.9in;height:1.50863in\" /></p>\n<p>halle la media aritmética.</p>",
+   "opciones": {
+    "a": "33,125",
+    "b": "32,250",
+    "c": "31,125",
+    "d": "34,250",
+    "e": "35,125"
+   }
+  },
+  {
+   "n": 29,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>Dada la siguiente distribución de frecuencias:</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 68%\" />\n<col style=\"width: 28%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\">Número de empleados</th>\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(f_{i}\\)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 16;32\\rangle\\)</span></td>\n<td style=\"text-align: left;\">6</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 32;48\\rangle\\)</span></td>\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(a\\)</span></td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 48;64\\rangle\\)</span></td>\n<td style=\"text-align: left;\">8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 64;80\\rangle\\)</span></td>\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(3a\\)</span></td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 80;96\\rbrack\\)</span></td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n</tbody>\n</table>\n<p>determine el valor de “<span class=\"math inline\">\\(a\\)</span>” sabiendo que la moda es 60 y pertenece al tercer intervalo.</p>",
+   "opciones": {
+    "a": "3",
+    "b": "2",
+    "c": "4",
+    "d": "6",
+    "e": "5"
+   }
+  },
+  {
+   "n": 30,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>La comunicación es un fenómeno social que se desarrolla en grupos humanos y no humanos; cumple distintas funciones que se diferencian y complementan. ¿Qué función no se evidencia en el siguiente texto?</p>\n<p><em>Padre, me siento feliz de estudiar en la UNH. A diario recuerdo cada una de tus frases como la que repetías siempre: “Caminante no hay camino, camino se hace al andar”. Sabes, yo también aprendí algunas frases aquí, pídame una y te la diré. Hoy hace mucho frío, y me caliento con tus recuerdos… Adiós, padre.</em></p>",
+   "opciones": {
+    "a": "apelativa",
+    "b": "expresiva",
+    "c": "representativa",
+    "d": "fática",
+    "e": "metalingüística"
+   }
+  },
+  {
+   "n": 31,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>¿Qué datos son ciertos sobre los orígenes del castellano?</p>\n<p>I. Surgió por degeneración del latín culto.<br />\nII. Su origen se ubica en Cantabria.<br />\nIII. Los primeros escritos datan del siglo XI.<br />\nIV. Las glosas silenses expresan un castellano rudimentario.</p>",
+   "opciones": {
+    "a": "I y III",
+    "b": "I y II",
+    "c": "III y IV",
+    "d": "II y IV",
+    "e": "II y III"
+   }
+  },
+  {
+   "n": 32,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>¿Cuántos fonemas oclusivos cuentas en total en estos versos de Góngora?</p>\n<p><em>Madre, yo al oro me humillo,</em><br />\n<em>él es mi amante y mi amado,</em><br />\n<em>pues de puro enamorado</em><br />\n<em>de continuo anda amarillo;</em><br />\n<em>que pues doblón o sencillo</em><br />\n<em>hace todo cuanto quiero</em><br />\n<em>poderoso caballero</em><br />\n<em>es don Dinero.</em></p>",
+   "opciones": {
+    "a": "26",
+    "b": "24",
+    "c": "22",
+    "d": "20",
+    "e": "28"
+   }
+  },
+  {
+   "n": 33,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>¿Qué proposiciones contienen el recurso retórico de la aliteración?</p>\n<p>I. Puedo escribir los versos más tristes esta noche…<br />\nII. Tan pesado como un tractor liviano…<br />\nIII. Mi mami me mima a mí; y yo mimo a mi mami…<br />\nIV. Yo soy la mar en sus días de calor…</p>",
+   "opciones": {
+    "a": "I y II",
+    "b": "II y III",
+    "c": "III y IV",
+    "d": "I y IV",
+    "e": "I y III"
+   }
+  },
+  {
+   "n": 34,
+   "curso": "Física",
+   "enunciado": "<p>En la figura, los puntos A, B, C, D, E y F determinan un hexágono regular de lado 1 <span class=\"math inline\">\\(u\\)</span>. Halle el módulo del vector resultante en el sistema vectorial mostrado.</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId40.png\" style=\"width:1.3in;height:1.21875in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(4u\\)</span>",
+    "b": "<span class=\"math inline\">\\(3u\\)</span>",
+    "c": "<span class=\"math inline\">\\(5u\\)</span>",
+    "d": "<span class=\"math inline\">\\(6u\\)</span>",
+    "e": "<span class=\"math inline\">\\(8u\\)</span>"
+   }
+  },
+  {
+   "n": 35,
+   "curso": "Física",
+   "enunciado": "<p>Un automóvil inicia su movimiento y se mueve en línea recta con una aceleración constante de modo que en dos segundos consecutivos recorre 7 m y 9 m respectivamente. En qué segundo de su movimiento recorrió 5 m.</p>",
+   "opciones": {
+    "a": "1<sup>er</sup> s",
+    "b": "4<sup>to</sup> s",
+    "c": "5<sup>to</sup> s",
+    "d": "2<sup>do</sup> s",
+    "e": "3<sup>er</sup> s"
+   }
+  },
+  {
+   "n": 36,
+   "curso": "Física",
+   "enunciado": "<p>La barra de masa despreciable se encuentra a punto de deslizar. Determine el coeficiente de rozamiento estático entre la barra y el piso.</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId43.png\" style=\"width:2.1in;height:0.67289in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\sqrt{3}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\frac{1}{\\sqrt{3}}\\)</span>",
+    "c": "<span class=\"math inline\">\\(\\frac{2}{\\sqrt{3}}\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\sqrt{2}\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\frac{\\sqrt{3}}{2}\\)</span>"
+   }
+  },
+  {
+   "n": 37,
+   "curso": "Física",
+   "enunciado": "<p>El siguiente sistema mostrado acelera horizontalmente con <span class=\"math inline\">\\(a = 2g\\)</span>. Si el peso de la esfera es 5 N, determine la reacción de la pared vertical sobre la esfera.</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId46.png\" style=\"width:1.5in;height:1.26623in\" /></p>",
+   "opciones": {
+    "a": "6 N",
+    "b": "10 N",
+    "c": "5 N",
+    "d": "8 N",
+    "e": "15 N"
+   }
+  },
+  {
+   "n": 38,
+   "curso": "Química",
+   "enunciado": "<p>La mezcla de 10 ml de mercurio con 500 ml de salmuera se encuentra en un sistema cerrado, por lo tanto forman un sistema:</p>",
+   "opciones": {
+    "a": "monofásico y ternario con 3 constituyentes.",
+    "b": "difásico y ternario con 5 constituyentes.",
+    "c": "difásico y binario con 3 constituyentes.",
+    "d": "trifásico y binario con 3 constituyentes.",
+    "e": "trifásico y ternario con 5 constituyentes."
+   }
+  },
+  {
+   "n": 39,
+   "curso": "Química",
+   "enunciado": "<p>Calcule la masa nuclear de un átomo que tiene 13 electrones en su quinto nivel energético y 110 nucleones neutros. (masa absoluta: <span class=\"math inline\">\\(p^{+} = 1,67252 \\times 10^{- 24}\\)</span> g; <span class=\"math inline\">\\(n^{\\circ} = 1,67482 \\times 10^{- 24}\\)</span> g)</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(1,3 \\times 10^{- 24}\\)</span> kg",
+    "b": "<span class=\"math inline\">\\(2,8 \\times 10^{- 24}\\)</span> kg",
+    "c": "<span class=\"math inline\">\\(3,5 \\times 10^{- 27}\\)</span> kg",
+    "d": "<span class=\"math inline\">\\(18,5 \\times 10^{- 25}\\)</span> kg",
+    "e": "<span class=\"math inline\">\\(3,1 \\times 10^{- 25}\\)</span> kg"
+   }
+  },
+  {
+   "n": 40,
+   "curso": "Química",
+   "enunciado": "<p>De los siguientes enunciados, indica lo correcto:</p>\n<p>I. El vanadio (Z = 23) es más electropositivo que el cobre (Z = 29).<br />\nII. El átomo X (Z = 15) y el átomo Y (Z = 51) son familia.<br />\nIII. El itrio (Z = 39) tiene mayor volumen atómico que el tecnecio (Z = 43).<br />\nIV. El cloro (Z = 17) tiene un mayor carácter metálico que el yodo (Z = 53).</p>",
+   "opciones": {
+    "a": "I y II",
+    "b": "I y IV",
+    "c": "II y III",
+    "d": "I, II y III",
+    "e": "I, II y IV"
+   }
+  },
+  {
+   "n": 41,
+   "curso": "Química",
+   "enunciado": "<p>Si el último electrón del átomo X responde a la notación cuántica: (4, 0, 0, –1/2) y para el último electrón del átomo Y: (3, 1, 1, +1/2), podemos decir que su estructura Lewis es:</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(X^{+ 2}\\left\\lbrack :\\ddot{\\underset{\\cdot \\cdot}{Y}}: \\right\\rbrack^{- 3}\\)</span>",
+    "b": "<span class=\"math inline\">\\(3X^{+ 2}\\, 2\\left\\lbrack :\\ddot{\\underset{\\cdot \\cdot}{Y}}: \\right\\rbrack^{- 3}\\)</span>",
+    "c": "<span class=\"math inline\">\\(X^{+ 2}\\, 2\\left\\lbrack :\\ddot{\\underset{\\cdot \\cdot}{Y}}: \\right\\rbrack^{- 3}\\)</span>",
+    "d": "<span class=\"math inline\">\\(2X^{+ 2}\\, 3\\left\\lbrack :\\ddot{\\underset{\\cdot \\cdot}{Y}}: \\right\\rbrack^{- 3}\\)</span>",
+    "e": "<span class=\"math inline\">\\(X^{+ 3}\\, 2\\left\\lbrack :\\ddot{\\underset{\\cdot \\cdot}{Y}}: \\right\\rbrack^{- 2}\\)</span>"
+   }
+  },
+  {
+   "n": 42,
+   "curso": "Química",
+   "enunciado": "<p>Indica el criterio de veracidad de los siguientes enunciados:</p>\n<p>I. Los compuestos AlH<sub>3</sub>, LiH, CaH<sub>2</sub>, son hidruros metálicos.<br />\nII. Las soluciones acuosas de CH<sub>4</sub>, NH<sub>3</sub> y PH<sub>3</sub> son ácidos hidrácidos.<br />\nIII. Los compuestos Na<sub>2</sub>SO<sub>3</sub>, CaCO<sub>3</sub> y KNO<sub>3</sub> pertenecen a las sales haloideas.<br />\nIV. La solución acuosa de los óxidos ácidos forman los ácidos oxácidos.</p>",
+   "opciones": {
+    "a": "VVVV",
+    "b": "VFVF",
+    "c": "VFFV",
+    "d": "FVVF",
+    "e": "FFFV"
+   }
+  },
+  {
+   "n": 43,
+   "curso": "Química",
+   "enunciado": "<p>Determine el valor de J; si: <span class=\"math inline\">\\(J = \\frac{P - 1}{Q - R}\\)</span>, siendo:</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId50.png\" style=\"width:2in;height:1.05546in\" /></p>",
+   "opciones": {
+    "a": "8",
+    "b": "6",
+    "c": "5",
+    "d": "3",
+    "e": "1"
+   }
+  },
+  {
+   "n": 44,
+   "curso": "Biología",
+   "enunciado": "<p>Identifique las proposiciones correctas:</p>\n<p>I. Los oligoelementos están constituidos por el C, H, O, N, P y S.<br />\nII. Los bioelementos primarios también se denominan plásticos.<br />\nIII. Los bioelementos biogenésicos son la base de biomoléculas orgánicas.</p>",
+   "opciones": {
+    "a": "I y III",
+    "b": "I y II",
+    "c": "II y III",
+    "d": "I",
+    "e": "II"
+   }
+  },
+  {
+   "n": 45,
+   "curso": "Biología",
+   "enunciado": "<p>Establezca el criterio de veracidad respecto a los lípidos.</p>\n<p>I. Los triglicéridos son lípidos insaponificables.<br />\nII. Un ejemplo de lípido derivado es el fosfolípido.<br />\nIII. El grupo ciclopentanoperhidrofenantreno forman los esteroides.<br />\nIV. El alcohol de la suberina es el glicerol.</p>",
+   "opciones": {
+    "a": "VFVF",
+    "b": "FFVF",
+    "c": "FFFF",
+    "d": "FVFV",
+    "e": "FVVF"
+   }
+  },
+  {
+   "n": 46,
+   "curso": "Biología",
+   "enunciado": "<p>De la estructura de una célula procariota identifica el enunciado que no corresponde.</p>",
+   "opciones": {
+    "a": "Su ADN es circular y desnudo, unido a las histonas.",
+    "b": "Presentan ribosoma 70s para sintetizar proteínas.",
+    "c": "Su pared celular está constituido por peptidoglicano.",
+    "d": "La cápsula otorga resistencia a la fagocitosis del hospedero.",
+    "e": "El flagelo está constituido por subunidades proteicas denominado flagelina."
+   }
+  },
+  {
+   "n": 47,
+   "curso": "Biología",
+   "enunciado": "<p>Del siguiente gráfico indique las proposiciones correctas:</p>\n<p><img src=\"img/examenes/regular-2026-ii-a/rId54.png\" style=\"width:1.4in;height:0.74923in\" /></p>\n<p>I. Se observa disyunción de los cromosomas.<br />\nII. Los cromosomas homólogos viajan a polos opuestos.<br />\nIII. Representa la metafase mitótica.<br />\nIV. Indica la reducción de los cromosomas a la mitad.</p>",
+   "opciones": {
+    "a": "II",
+    "b": "III",
+    "c": "I",
+    "d": "I y IV",
+    "e": "II y IV"
+   }
+  },
+  {
+   "n": 48,
+   "curso": "Biología",
+   "enunciado": "<p>En las gallinas, la cabeza con cresta es producido por un gen dominante (C) y la cabeza sin cresta por su alelo recesivo (c). El gen para las plumas negras (R) es dominante al rojo (r). Si se cruzan una gallina con cresta y plumas negras, homocigote para ambas características (CCRR) con un gallo sin cresta y plumas rojas (ccrr), ¿cuál será la proporción de crías dihíbridas en la F<sub>2</sub>?</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\frac{9}{16}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\frac{1}{4}\\)</span>",
+    "c": "<span class=\"math inline\">\\(\\frac{7}{16}\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\frac{3}{4}\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\frac{4}{16}\\)</span>"
+   }
+  },
+  {
+   "n": 49,
+   "curso": "Biología",
+   "enunciado": "<p>Respecto a la respiración celular, indique el criterio de veracidad.</p>\n<p>I. La degradación aeróbica del acetil se denomina ciclo de Krebs.<br />\nII. La fosforilación de la glucosa se da en el citoplasma.<br />\nIII. El NADH<sub>2</sub><sup>+</sup> y el FADH<sub>2</sub><sup>+</sup> incorporan e<sup>–</sup> a la membrana externa de la mitocondria.<br />\nIV. En la glucólisis se obtiene NADH<sub>2</sub><sup>+</sup>, FADH<sub>2</sub><sup>+</sup> y ADP.</p>",
+   "opciones": {
+    "a": "I, II y IV",
+    "b": "II, III y IV",
+    "c": "I y III",
+    "d": "I y II",
+    "e": "II y III"
+   }
+  },
+  {
+   "n": 50,
+   "curso": "Ecología",
+   "enunciado": "<p>Respecto a las capas de la atmósfera, ¿cuál es la principal diferencia entre la tropósfera y termósfera?</p>",
+   "opciones": {
+    "a": "La altura de la tropósfera es de 0,212 km y de la termósfera es de 85 a 300 km.",
+    "b": "La altura de la tropósfera es de 0,310 km y de la termósfera es de 85 a 600 km.",
+    "c": "En la tropósfera la temperatura disminuye con la altura y en la termósfera la temperatura aumenta considerablemente con la altura.",
+    "d": "En la tropósfera y en la termósfera la temperatura disminuye con la altura.",
+    "e": "La tropósfera es la capa más baja y la termósfera es la capa más externa."
+   }
+  },
+  {
+   "n": 51,
+   "curso": "Ecología",
+   "enunciado": "<p>Si se compara la conducción del calor con la convección, entonces, ¿cuál es la principal diferencia fundamental en el mecanismo de transferencia de energía térmica?</p>",
+   "opciones": {
+    "a": "La conducción ocurre por la colisión de moléculas y átomos, y la convección se debe al movimiento de la masa del fluido.",
+    "b": "La conducción se transfiere calor a líquidos y gases, y la convección a material sólido.",
+    "c": "La conducción se da debido al movimiento de masa fluida y la convección por colisión de moléculas y átomos.",
+    "d": "La conducción y convección transfieren calor en material líquido.",
+    "e": "La conducción y la convección transfieren calor con el mismo mecanismo."
+   }
+  },
+  {
+   "n": 52,
+   "curso": "Sicología",
+   "enunciado": "<p>Con respecto a las características de la sicología, indique la secuencia correcta del valor de verdadero (V) o falso (F).</p>\n<p>I. Es una ciencia obsoleta y voluble.<br />\nII. Está relacionado con otras disciplinas; menos la sociología.<br />\nIII. Estudia el comportamiento humano.<br />\nIV. Busca predecir y controlar el comportamiento solo en la sicología aplicada.</p>",
+   "opciones": {
+    "a": "FFFF",
+    "b": "FFVF",
+    "c": "VFFV",
+    "d": "FVFV",
+    "e": "FVVF"
+   }
+  },
+  {
+   "n": 53,
+   "curso": "Sicología",
+   "enunciado": "<p>Marque la afirmación incorrecta:</p>",
+   "opciones": {
+    "a": "El aporte de la reflexología es el reflejo condicionado.",
+    "b": "Representante del Funcionalismo es William James.",
+    "c": "El Estructuralismo tiene como objeto de estudio la estructura del comportamiento.",
+    "d": "El Neoconductismo es una de las escuelas contemporáneas.",
+    "e": "El cognitivismo plantea la teoría del procesamiento de información."
+   }
+  },
+  {
+   "n": 54,
+   "curso": "Sicología",
+   "enunciado": "<p>Ramas consideradas como sicología pura.</p>",
+   "opciones": {
+    "a": "sicología cognitiva – sicología neurosicológica",
+    "b": "sicología educativa – sicología social",
+    "c": "sicología de la salud – sicología del desarrollo",
+    "d": "sicología forense – sicología de la personalidad",
+    "e": "sicología educativa – sicología del desarrollo"
+   }
+  },
+  {
+   "n": 55,
+   "curso": "Sicología",
+   "enunciado": "<p>Se refiere a la capacidad del cerebro para cambiar y adaptarse en respuesta a la experiencia y el aprendizaje.</p>",
+   "opciones": {
+    "a": "desarrollo neural",
+    "b": "genética",
+    "c": "evolución",
+    "d": "neuroplasticidad",
+    "e": "neurotransmisores"
+   }
+  }
+ ]
+}

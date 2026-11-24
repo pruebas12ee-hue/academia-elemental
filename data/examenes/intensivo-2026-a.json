@@ -1,0 +1,667 @@
+{
+ "id": "intensivo-2026-a",
+ "titulo": "CEPRE Intensivo 2026 – Área A",
+ "duracion_min": 90,
+ "preguntas": [
+  {
+   "n": 1,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>¿En qué alternativa reconoces antonimia morfológica?</p>",
+   "opciones": {
+    "a": "prolífico – escaso",
+    "b": "bizarro – cobarde",
+    "c": "venal – corrupto",
+    "d": "moral – inmoral",
+    "e": "ralo – tupido"
+   }
+  },
+  {
+   "n": 2,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Determine el par análogo.</p>\n<p>BÚHO : SABIDURÍA</p>",
+   "opciones": {
+    "a": "Melgar : poeta",
+    "b": "río : vegetación",
+    "c": "Aquiles : maldad",
+    "d": "tortuga : longevidad",
+    "e": "bandera : patriotismo"
+   }
+  },
+  {
+   "n": 3,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>¿Qué palabra continúa en la serie?<br />\n– falda, falda; hoja, hoja; mano, mano; …, …</p>",
+   "opciones": {
+    "a": "vino – vino",
+    "b": "polo – polo",
+    "c": "cabeza – cabeza",
+    "d": "vela – vela",
+    "e": "coma – coma"
+   }
+  },
+  {
+   "n": 4,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>Complete la expresión.<br />\nPese a que es un muchacho __________, en esta oportunidad no supo __________ adecuadamente el ejercicio.</p>",
+   "opciones": {
+    "a": "sincero – justificar",
+    "b": "locuaz – desarrollar",
+    "c": "racional – sospechar",
+    "d": "perspicaz – resolver",
+    "e": "perseverante – principiar"
+   }
+  },
+  {
+   "n": 5,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>¿Qué expresiones están correctamente redactadas?</p>\n<p>I. Tus porqués no me convencen.<br />\nII. Brindo por que te vaya bien.<br />\nIII. Se dio por que faltó prever.<br />\nIV. Me pregunto, ¿por que eres así?</p>",
+   "opciones": {
+    "a": "I y III",
+    "b": "II y IV",
+    "c": "I y IV",
+    "d": "II y III",
+    "e": "I y II"
+   }
+  },
+  {
+   "n": 6,
+   "curso": "Aptitud Comunicativa",
+   "enunciado": "<p>¿Cuántas tildes <u>especiales</u> necesitamos agregar en el texto?</p>\n<p>Que calor, cuanto sudor… A mi el verano me induce a beber dos tes helados. Se que requerire mas bebidas heladas.</p>",
+   "opciones": {
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "e": "9"
+   }
+  },
+  {
+   "n": 7,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>En el gráfico mostrado, cada cuadrado de 3 × 3 representa un cuadrado mágico. Calcule la suma de los números ubicados en las casillas sombreadas.</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId21.png\" style=\"width:1.7in;height:1.7in\" /></p>",
+   "opciones": {
+    "a": "43",
+    "b": "40",
+    "c": "41",
+    "d": "39",
+    "e": "38"
+   }
+  },
+  {
+   "n": 8,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>¿De cuántas formas diferentes se puede leer la palabra HUANCAVELICA uniendo letras contiguas?</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId24.png\" style=\"width:1.5in;height:1.82781in\" /></p>",
+   "opciones": {
+    "a": "2048",
+    "b": "1024",
+    "c": "512",
+    "d": "256",
+    "e": "128"
+   }
+  },
+  {
+   "n": 9,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Si <span class=\"math inline\">\\(7^{\\overline{uuu}} = \\overline{\\ldots h}\\)</span>, además <span class=\"math inline\">\\(9^{u} = \\overline{\\ldots u}\\)</span>, calcule el valor de <span class=\"math inline\">\\(u + h\\)</span>.</p>",
+   "opciones": {
+    "a": "13",
+    "b": "12",
+    "c": "11",
+    "d": "10",
+    "e": "9"
+   }
+  },
+  {
+   "n": 10,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>Si se posaran <span class=\"math inline\">\\((n + 1)\\)</span> jilgueros en cada uno de los <span class=\"math inline\">\\((n - 1)\\)</span> postes, sobrarían 10 jilgueros; pero si en cada poste se posaran 3 jilgueros más, quedarían 2 postes vacíos. ¿Cuánto es la suma del número de jilgueros y el número de postes?</p>",
+   "opciones": {
+    "a": "455",
+    "b": "460",
+    "c": "465",
+    "d": "470",
+    "e": "475"
+   }
+  },
+  {
+   "n": 11,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>En un grupo de seis personas, ninguna de ellas es menor de 15 años. Si el promedio aritmético de las edades es 19 años, ¿cuál es la máxima edad que pueda tener una de ellas?</p>",
+   "opciones": {
+    "a": "39",
+    "b": "34",
+    "c": "46",
+    "d": "44",
+    "e": "36"
+   }
+  },
+  {
+   "n": 12,
+   "curso": "Aptitud Lógico Matemática – Sicotécnico",
+   "enunciado": "<p>¿Qué hora marca el reloj de la figura mostrada, sabiendo que <span class=\"math inline\">\\(\\theta^{\\circ} - \\alpha^{\\circ} = 3,75^{\\circ}\\)</span>?</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId27.png\" style=\"width:1.5in;height:1.5in\" /></p>",
+   "opciones": {
+    "a": "10 h 41′ 00″",
+    "b": "10 h 41′ 15″",
+    "c": "10 h 42′ 30″",
+    "d": "10 h 37′ 00″",
+    "e": "10 h 38′ 00″"
+   }
+  },
+  {
+   "n": 13,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>Read and complete the dialogue.</p>\n<p>Juan: My aunt and uncle are visiting this week.<br />\nMary: You don’t seem very happy about it.<br />\nJuan: I’m not. My aunt is always saying; You’re ________ your uncle Jack.<br />\nMary: Well, are you and your uncle ________?<br />\nJuan: No, we’re very different.</p>",
+   "opciones": {
+    "a": "dislike / is equals",
+    "b": "alike / similars",
+    "c": "unlike / similars",
+    "d": "dislike / are equals",
+    "e": "unlike / similars"
+   }
+  },
+  {
+   "n": 14,
+   "curso": "Aptitud Comunicativa – Inglés",
+   "enunciado": "<p>Choose the correct responses.</p>\n<p>A. What do you think of Dina Paucar?<br />\nB. ____________________<br />\nC. Do you like folklore music?<br />\nD. ____________________<br />\nE. There’s a baseball game tonight<br />\nF. ____________________</p>",
+   "opciones": {
+    "a": "How about you? / I can’t stand them / Thanks. I’d love to.",
+    "b": "How about you? / I can’t stand it / Great. Let’s go.",
+    "c": "I’m not a real fan of the show / I can’t stand them / Thank. I’d love to.",
+    "d": "I’m not a real fan of the show / I can’t stand it / Great. Let’s go.",
+    "e": "How about you? / I can’t stand it / Thanks. I’d love to."
+   }
+  },
+  {
+   "n": 15,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>Mama Teófilas sapa punchawsi maqasqa warmanta unqunankama, imaniwaqtaq, qam?</p>",
+   "opciones": {
+    "a": "manan allinchu",
+    "b": "allinmi",
+    "c": "maqachun",
+    "d": "chuqachun",
+    "e": "kuyachun"
+   }
+  },
+  {
+   "n": 16,
+   "curso": "Aptitud Comunicativa – Quechua",
+   "enunciado": "<p>Imaynatataq qillqawaq “Vine sin comer” qichwa simipi?</p>",
+   "opciones": {
+    "a": "Manachu mikurqanki?",
+    "b": "Manam mikunichu.",
+    "c": "Mikurankichu?",
+    "d": "Mana mikusqam hamuni.",
+    "e": "Mikuramuniñam."
+   }
+  },
+  {
+   "n": 17,
+   "curso": "Aritmética",
+   "enunciado": "<p>Determine la expresión lógica reducida del siguiente circuito:</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId33.png\" style=\"width:1.9in;height:1.07419in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\sim p \\vee q\\)</span>",
+    "b": "<span class=\"math inline\">\\(p \\land q\\)</span>",
+    "c": "<span class=\"math inline\">\\(p \\vee \\sim q\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\sim p \\land q\\)</span>",
+    "e": "<span class=\"math inline\">\\(p \\vee q\\)</span>"
+   }
+  },
+  {
+   "n": 18,
+   "curso": "Aritmética",
+   "enunciado": "<p>Dado el conjunto unitario: <span class=\"math inline\">\\(A = \\{\\overline{a + b},\\ ab + 7,\\ 12\\}\\)</span>, calcule: <span class=\"math inline\">\\(a^{3} + b^{3}\\)</span></p>",
+   "opciones": {
+    "a": "1448",
+    "b": "1340",
+    "c": "608",
+    "d": "1728",
+    "e": "1548"
+   }
+  },
+  {
+   "n": 19,
+   "curso": "Aritmética",
+   "enunciado": "<p>¿En qué sistema de numeración cuya base es par, se han utilizado 300 cifras; para escribir todos los números de tres cifras par diferentes?</p>",
+   "opciones": {
+    "a": "12",
+    "b": "6",
+    "c": "10",
+    "d": "4",
+    "e": "3"
+   }
+  },
+  {
+   "n": 20,
+   "curso": "Aritmética",
+   "enunciado": "<p>Halle, cuántos números entre 95000 y 194000 son múltiplos de 13 y múltiplos de 7, pero no múltiplos de 11.</p>",
+   "opciones": {
+    "a": "900",
+    "b": "1088",
+    "c": "2131",
+    "d": "989",
+    "e": "1044"
+   }
+  },
+  {
+   "n": 21,
+   "curso": "Aritmética",
+   "enunciado": "<p>El número de páginas de un libro está comprendido entre 843 y 983. Si se cuenta sus páginas de 12 en 12 sobran 5, de 15 en 15 sobran 8 y de 18 en 18 sobran 11. Halle, el número de páginas del libro.</p>",
+   "opciones": {
+    "a": "990",
+    "b": "850",
+    "c": "893",
+    "d": "980",
+    "e": "853"
+   }
+  },
+  {
+   "n": 22,
+   "curso": "Álgebra",
+   "enunciado": "<p>A partir de la igualdad:</p>\n<p><span class=\"math display\">\\[\\sqrt[5]{\\frac{H}{\\sqrt[5]{\\frac{H}{\\sqrt[5]{\\frac{H}{\\ddots \\infty}}}}}} = H^{2,1\\widehat{6} - H^{2,1\\widehat{6} - H^{2,1\\widehat{6} - H^{\\cdots\\infty}}}}\\]</span></p>\n<p>determine el valor de <span class=\"math inline\">\\(H\\)</span></p>",
+   "opciones": {
+    "a": "8",
+    "b": "16",
+    "c": "32",
+    "d": "64",
+    "e": "128"
+   }
+  },
+  {
+   "n": 23,
+   "curso": "Álgebra",
+   "enunciado": "<p>Si <span class=\"math inline\">\\(P\\)</span> es un polinomio definido por:</p>\n<p><span class=\"math display\">\\[P(x;y) = 4x^{a + 1}y^{b - 2} + 3x^{a + 2}y^{b - 1} + 6x^{a + 3}y^{b - 2}\\]</span></p>\n<p>tal que <span class=\"math inline\">\\(GA(P) = 20\\)</span> y <span class=\"math inline\">\\(GR(x) = 8\\)</span>, calcule: <span class=\"math inline\">\\(a \\cdot b\\)</span></p>",
+   "opciones": {
+    "a": "91",
+    "b": "70",
+    "c": "75",
+    "d": "64",
+    "e": "32"
+   }
+  },
+  {
+   "n": 24,
+   "curso": "Álgebra",
+   "enunciado": "<p>Calcule el valor de <span class=\"math inline\">\\(E\\)</span>, si:</p>\n<p><span class=\"math display\">\\[E = \\frac{a(a + 1)(a - 1) + b(b + 1)(b - 1) + c(c + 1)(c - 1)}{a(bc + 1) + b(ac + 1) + c(ab + 1)}\\]</span></p>\n<p>sabiendo que: <span class=\"math inline\">\\(a = 2 + \\sqrt{3};\\ b = 1 - 2\\sqrt{3};\\ c = \\sqrt{3} - 3\\)</span></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\frac{1}{3}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\frac{1}{2}\\)</span>",
+    "c": "1",
+    "d": "2",
+    "e": "3"
+   }
+  },
+  {
+   "n": 25,
+   "curso": "Álgebra",
+   "enunciado": "<p>Halle el resto que se obtiene al dividir el polinomio:</p>\n<p><span class=\"math display\">\\[\\left( \\sqrt{3} - \\sqrt{2} \\right)x^{5} - 2\\sqrt{2}x^{3} - 2\\sqrt{3}x + 6\\]</span></p>\n<p>entre <span class=\"math inline\">\\(x - \\sqrt{3} - \\sqrt{2}\\)</span></p>",
+   "opciones": {
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "e": "4"
+   }
+  },
+  {
+   "n": 26,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>En el curso de estadística el promedio de las calificaciones de 40 estudiantes es 13,5; si 6 de ellos tienen un promedio de 18 y otros 10 un promedio de 8 y el resto de calificaciones que no superan los 16. Calcule el menor promedio que alcanzaron 5 estudiantes en estadística.</p>",
+   "opciones": {
+    "a": "12,5",
+    "b": "10,5",
+    "c": "9,6",
+    "d": "9,0",
+    "e": "11,0"
+   }
+  },
+  {
+   "n": 27,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>Se tiene la siguiente distribución de frecuencias, a partir de ella, halle la moda.</p>\n<table style=\"width:97%;\">\n<colgroup>\n<col style=\"width: 58%\" />\n<col style=\"width: 39%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(I\\)</span></th>\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(f_{i}\\)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 40 - \\ \\ \\ \\rangle\\)</span></td>\n<td style=\"text-align: left;\">7</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack\\ \\ \\  - 120\\rangle\\)</span></td>\n<td style=\"text-align: left;\">8</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack\\ \\ \\  - \\ \\ \\ \\rangle\\)</span></td>\n<td style=\"text-align: left;\">10</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack\\ \\ \\  - \\ \\ \\ \\rangle\\)</span></td>\n<td style=\"text-align: left;\">16</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack\\ \\ \\  - 240\\rangle\\)</span></td>\n<td style=\"text-align: left;\">12</td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "184",
+    "b": "196",
+    "c": "180",
+    "d": "126",
+    "e": "182"
+   }
+  },
+  {
+   "n": 28,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>La tabla de distribución de frecuencias muestra la estatura de 80 estudiantes. Halle qué tanto por ciento de estudiantes miden menos de 170 cm y <span class=\"math inline\">\\(f_{5}\\)</span> respectivamente.</p>\n<table style=\"width:98%;\">\n<colgroup>\n<col style=\"width: 36%\" />\n<col style=\"width: 20%\" />\n<col style=\"width: 20%\" />\n<col style=\"width: 21%\" />\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(I\\)</span></th>\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(f_{i}\\)</span></th>\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(F_{i}\\)</span></th>\n<th style=\"text-align: left;\"><span class=\"math inline\">\\(h_{i}\\)</span></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 155 - 160\\rangle\\)</span></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 160 - 165\\rangle\\)</span></td>\n<td style=\"text-align: left;\">48</td>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 165 - 170\\rangle\\)</span></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">0.125</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 170 - 175\\rangle\\)</span></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">0.075</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(\\lbrack 175 - 180\\rangle\\)</span></td>\n<td style=\"text-align: left;\"><span class=\"math inline\">\\(f_{5}\\)</span></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n</tbody>\n</table>",
+   "opciones": {
+    "a": "80,5 % y 6",
+    "b": "87,5 % y 4",
+    "c": "70,5 % y 3",
+    "d": "79,0 % y 5",
+    "e": "83,2 % y 4"
+   }
+  },
+  {
+   "n": 29,
+   "curso": "Estadística y Probabilidades",
+   "enunciado": "<p>El gráfico muestra el número de accidentes según sector. Si 135 accidentes se registraron en el sector minero, ¿cuál fue el número de accidentes en el sector construcción?</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId38.png\" style=\"width:1.5in;height:1.5in\" /></p>",
+   "opciones": {
+    "a": "250",
+    "b": "430",
+    "c": "720",
+    "d": "580",
+    "e": "630"
+   }
+  },
+  {
+   "n": 30,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>Dado el texto, determine el número total de diptongos homogéneos, crecientes y decrecientes, respectivamente.</p>\n<p>Desde el verso que prosa, muy bien, tendiendo puentes huidizos hacia el cuento y la poesía, y desde esta condición de espejismo causal, con lo cual Paulito Huamán asume también la condición de puente, de espacio y de encuentro…</p>",
+   "opciones": {
+    "a": "1 – 11 – 1",
+    "b": "2 – 12 – 1",
+    "c": "2 – 13 – 2",
+    "d": "1 – 13 – 3",
+    "e": "0 – 13 – 2"
+   }
+  },
+  {
+   "n": 31,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>Relacione la especie literaria con su característica.</p>\n<p>U. égloga (  ) sacro<br />\nH. elegía (  ) pastoril<br />\nC. epigrama (  ) triste<br />\nI. himno (  ) burlesco</p>",
+   "opciones": {
+    "a": "ICHU",
+    "b": "CHIU",
+    "c": "CHUI",
+    "d": "IUHC",
+    "e": "UCHI"
+   }
+  },
+  {
+   "n": 32,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>¿En qué alternativa reconoces sinécdoque y metáfora, respectivamente?</p>",
+   "opciones": {
+    "a": "Pediré tu mano, mi dulce flor.",
+    "b": "Porque eres mi luz, mi camino florido.",
+    "c": "Hablaré con el viento, mi bello candor.",
+    "d": "Volaré hasta tu lado, amor de mis amores.",
+    "e": "Eres mi alegría, oro pulido."
+   }
+  },
+  {
+   "n": 33,
+   "curso": "Lenguaje y Literatura",
+   "enunciado": "<p>¿Qué afirmación es cierta sobre las <u>vocales</u> del presente texto?</p>\n<p>Ovejas sois, bien lo dice de Fuenteovejuna el hombre.</p>",
+   "opciones": {
+    "a": "Hay tantas anteriores como posteriores.",
+    "b": "Hay más anteriores que posteriores.",
+    "c": "Hay más posteriores que anteriores.",
+    "d": "Solo se reconoce anteriores.",
+    "e": "Solo se reconoce posteriores."
+   }
+  },
+  {
+   "n": 34,
+   "curso": "Física",
+   "enunciado": "<p>Se tiene 2 vectores <span class=\"math inline\">\\(\\overrightarrow{A}\\)</span> y <span class=\"math inline\">\\(\\overrightarrow{B}\\)</span> tal como se muestra en la figura. <span class=\"math inline\">\\(\\left| \\overrightarrow{A} \\right| = 20u\\)</span>, ¿qué valor tiene la resultante de estos vectores si se sabe que es mínima?</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId43.png\" style=\"width:1.6in;height:1.01369in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(\\overrightarrow{R} = 10\\, u\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\overrightarrow{R} = 20\\, u\\)</span>",
+    "c": "<span class=\"math inline\">\\(\\overrightarrow{R} = 12\\, u\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\overrightarrow{R} = 9\\, u\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\overrightarrow{R} = 14\\, u\\)</span>"
+   }
+  },
+  {
+   "n": 35,
+   "curso": "Física",
+   "enunciado": "<p>Se suelta una esfera desde cierta altura. Si en el último segundo de su caída recorre 35 m, ¿desde qué altura fue soltada la esfera? <span class=\"math inline\">\\(\\left( g = 10\\ m/s^{2} \\right)\\)</span></p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId46.png\" style=\"width:1.2in;height:1.17112in\" /></p>",
+   "opciones": {
+    "a": "120 m",
+    "b": "100 m",
+    "c": "70 m",
+    "d": "140 m",
+    "e": "80 m"
+   }
+  },
+  {
+   "n": 36,
+   "curso": "Física",
+   "enunciado": "<p>Una barra de masa despreciable se encuentra a punto de deslizar. Determine el coeficiente de razonamiento entre la barra y el piso.</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId49.png\" style=\"width:2in;height:1.01437in\" /></p>",
+   "opciones": {
+    "a": "3",
+    "b": "4",
+    "c": "<span class=\"math inline\">\\(\\frac{3}{2}\\)</span>",
+    "d": "<span class=\"math inline\">\\(\\frac{1}{3}\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\frac{2}{3}\\)</span>"
+   }
+  },
+  {
+   "n": 37,
+   "curso": "Física",
+   "enunciado": "<p>Un proyectil es lanzado tal como indica la figura. Determine luego de cuántos segundos de haber sido lanzado impacta sobre el plano inclinado. Considere gravedad <span class=\"math inline\">\\(10\\ m/s^{2}\\)</span></p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId52.png\" style=\"width:2in;height:1.29897in\" /></p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(4\\sqrt{3}\\)</span>",
+    "b": "<span class=\"math inline\">\\(\\frac{8}{3}\\sqrt{3}\\)</span>",
+    "c": "<span class=\"math inline\">\\(\\frac{\\sqrt{3}}{5}\\)</span>",
+    "d": "<span class=\"math inline\">\\(3\\sqrt{3}\\)</span>",
+    "e": "<span class=\"math inline\">\\(\\sqrt{3}\\)</span>"
+   }
+  },
+  {
+   "n": 38,
+   "curso": "Química",
+   "enunciado": "<p>En un reactor nuclear se usó una muestra de plutonio, luego de una reacción el 85 % queda sin desmaterializarse. Si la energía producida es de <span class=\"math inline\">\\(5,4 \\times 10^{22}\\)</span> ergios, calcule la masa de la muestra.</p>",
+   "opciones": {
+    "a": "200 g",
+    "b": "300 g",
+    "c": "400 g",
+    "d": "500 g",
+    "e": "600 g"
+   }
+  },
+  {
+   "n": 39,
+   "curso": "Química",
+   "enunciado": "<p>¿Cuántas proposiciones son incorrectas?</p>\n<p>I. El número cuántico azimutal indica la forma del reempe.<br />\nII. Si <span class=\"math inline\">\\(l = 3\\)</span>, entonces es posible siete valores para el número cuántico magnético.<br />\nIII. Para un electrón del orbital <span class=\"math inline\">\\(3p_{z}\\)</span>: <span class=\"math inline\">\\(n = 3\\)</span> y <span class=\"math inline\">\\(l = 1\\)</span>.<br />\nIV. Un orbital “d” admite como máximo 10 electrones.<br />\nV. El número cuántico spin, indica la orientación del orbital.<br />\nVI. Se dice que una especie es paramagnética cuando todos sus electrones están apareados.</p>",
+   "opciones": {
+    "a": "2",
+    "b": "6",
+    "c": "5",
+    "d": "4",
+    "e": "3"
+   }
+  },
+  {
+   "n": 40,
+   "curso": "Química",
+   "enunciado": "<p>Determine el radio atómico aproximado del aluminio en angstroms, <span class=\"math inline\">\\(\\left( 1\\ \\text{Å} = 10^{- 8}\\ \\text{cm} \\right)\\)</span> si su peso atómico es 27 y su densidad vale <span class=\"math inline\">\\(2,7\\ g/cm^{3}\\)</span>.</p>\n<p>Dato: N° = número de avogadro = <span class=\"math inline\">\\(6,023 \\times 10^{23}\\)</span></p>",
+   "opciones": {
+    "a": "1,6",
+    "b": "2,3",
+    "c": "2,8",
+    "d": "3,2",
+    "e": "3,8"
+   }
+  },
+  {
+   "n": 41,
+   "curso": "Química",
+   "enunciado": "<p>Calcule la carga formal del nitrógeno en el HNO<sub>2</sub>, del azufre en el H<sub>2</sub>SO<sub>3</sub> y del carbono en el H<sub>2</sub>CO<sub>2</sub>, respectivamente.</p>",
+   "opciones": {
+    "a": "+3; +4; +2",
+    "b": "0; 0; 0",
+    "c": "0; +1; 0",
+    "d": "0; +1; +1",
+    "e": "+1; +2; +1"
+   }
+  },
+  {
+   "n": 42,
+   "curso": "Química",
+   "enunciado": "<p>¿Cuántos electrones se tiene en una muestra de 2000 moléculas de anhidrido bórico y 8000 moléculas de óxido de potasio?</p>",
+   "opciones": {
+    "a": "<span class=\"math inline\">\\(1,34 \\times 10^{7}\\)</span>",
+    "b": "<span class=\"math inline\">\\(2,52 \\times 10^{6}\\)</span>",
+    "c": "<span class=\"math inline\">\\(2,83 \\times 10^{7}\\)</span>",
+    "d": "<span class=\"math inline\">\\(8,72 \\times 10^{5}\\)</span>",
+    "e": "<span class=\"math inline\">\\(4,36 \\times 10^{5}\\)</span>"
+   }
+  },
+  {
+   "n": 43,
+   "curso": "Química",
+   "enunciado": "<p>Considerando el peso molecular de los siguientes compuestos:</p>\n<p>A = anhidrido fosfórico<br />\nB = hidróxido ferroso<br />\nC = ácido clorhídrico<br />\nD = carbonato niquélico</p>\n<p>calcule el valor de <span class=\"math inline\">\\(W = \\sqrt{\\frac{2D - 5C}{A - B}}\\)</span></p>",
+   "opciones": {
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "e": "6"
+   }
+  },
+  {
+   "n": 44,
+   "curso": "Biología",
+   "enunciado": "<p>Establezca el criterio de veracidad de los siguientes enunciados.</p>\n<p>I. El sodio es el principal catión del medio intracelular.<br />\nII. El yodo es un importante componente de las hormonas tiroideas.<br />\nIII. El cromo es componente de la hemocianina.<br />\nIV. El cobalto es componente de la vitamina B<sub>12</sub>.</p>",
+   "opciones": {
+    "a": "FVFV",
+    "b": "VFFV",
+    "c": "FVVF",
+    "d": "VFVF",
+    "e": "VVFV"
+   }
+  },
+  {
+   "n": 45,
+   "curso": "Biología",
+   "enunciado": "<p>Sobre los glúcidos, identifica el o los enunciados correctos del siguiente esquema:</p>\n<p><img src=\"img/examenes/intensivo-2026-a/rId57.png\" style=\"width:1.1in;height:1.49007in\" /></p>\n<p>A. Se trata de la fórmula proyección de Howarth.<br />\nB. Representa a una aldohexosa.<br />\nC. Su nomenclatura es fructuocetosa.</p>",
+   "opciones": {
+    "a": "A, B y C",
+    "b": "B y C",
+    "c": "A y B",
+    "d": "A",
+    "e": "B"
+   }
+  },
+  {
+   "n": 46,
+   "curso": "Biología",
+   "enunciado": "<p>De los siguientes enunciados, indica aquellos que son correctos respecto a la respiración celular.</p>\n<p>I. En la gluconeogénesis el ácido láctico sirve para formar glucosa a nivel del hígado.<br />\nII. En el ciclo de Krebs se obtiene <span class=\"math inline\">\\(3NAD_{2}^{+}\\)</span>, <span class=\"math inline\">\\(1FADH_{2}^{+}\\)</span> y 1GTP.<br />\nIII. La CoA (coenzima A) transfiere el piruvato hacia el ciclo de Krebs.<br />\nIV. El transporte de electrones se da a nivel de la membrana externa mitocondrial.</p>",
+   "opciones": {
+    "a": "I, II y IV",
+    "b": "II, III y IV",
+    "c": "II y IV",
+    "d": "I y II",
+    "e": "I y III"
+   }
+  },
+  {
+   "n": 47,
+   "curso": "Biología",
+   "enunciado": "<p>Sobre la meiosis reduccional establezca la relación correcta.</p>\n<p>A. profase I (  ) los cromosomas homólogos migran hacia los polos.<br />\nB. metafase I (  ) se reorganiza la carioteca y el nucleolo.<br />\nC. anafase I (  ) se da el crossing over.<br />\nD. telofase I (  ) los cromosomas homólogos forman una doble capa ecuatorial.</p>",
+   "opciones": {
+    "a": "C – D – A – B",
+    "b": "C – D – B – A",
+    "c": "D – C – A – B",
+    "d": "D – C – B – A",
+    "e": "A – D – B – C"
+   }
+  },
+  {
+   "n": 48,
+   "curso": "Biología",
+   "enunciado": "<p>Una mujer portadora de la hemofilia y el daltonismo heredó el gen de la familia de su padre y el daltonismo de su madre. Si se casa con un varón sano, ¿cuál será el porcentaje de hijas portadoras de la hemofilia y la de los hijos varones sanos?</p>",
+   "opciones": {
+    "a": "50 % – 100 %",
+    "b": "100 % – 50 %",
+    "c": "25 % – 50 %",
+    "d": "25 % – 0 %",
+    "e": "50 % – 0 %"
+   }
+  },
+  {
+   "n": 49,
+   "curso": "Biología",
+   "enunciado": "<p>Sobre la estructura y características de una célula procariota, establezca el criterio de veracidad.</p>\n<p>I. Los gram positivos tienen varias capas de peptidoglucano.<br />\nII. Los fragmentos de ADN extracromosómicos se denominan plásmidos.<br />\nIII. Las fimbrias son vellosidades bacterianas importantes para su locomoción.<br />\nIV. Las subunidades de un ribosoma bacteriano, es de 30s y 50s.</p>",
+   "opciones": {
+    "a": "I, III y IV",
+    "b": "I, II y IV",
+    "c": "I y III",
+    "d": "II y IV",
+    "e": "II y III"
+   }
+  },
+  {
+   "n": 50,
+   "curso": "Ecología",
+   "enunciado": "<p>Son masas de gases y polvo cósmico de contorno impreciso donde pueden nacer estrellas; son ejemplos de nebulosas brillantes excepto.</p>",
+   "opciones": {
+    "a": "Orión",
+    "b": "Roseta",
+    "c": "Cabeza de caballo",
+    "d": "Dumbell",
+    "e": "Cangrejo"
+   }
+  },
+  {
+   "n": 51,
+   "curso": "Ecología",
+   "enunciado": "<p>¿Quién planteó la discontinuidad que divide la corteza y manto de la geósfera?</p>",
+   "opciones": {
+    "a": "Wiechert – Lehman",
+    "b": "Gutemberg",
+    "c": "Repetti",
+    "d": "Mohorovicic",
+    "e": "Conrad"
+   }
+  },
+  {
+   "n": 52,
+   "curso": "Sicología",
+   "enunciado": "<p>Al escuchar la música en un concierto junto al parlante; es el umbral __________.</p>",
+   "opciones": {
+    "a": "mínimo",
+    "b": "superior",
+    "c": "diferencial",
+    "d": "inferior",
+    "e": "superficial"
+   }
+  },
+  {
+   "n": 53,
+   "curso": "Sicología",
+   "enunciado": "<p>En el centro nervioso se recepcionan y analizan las señales sensoriales que llegan de los diferentes receptores, aquí se da la __________.</p>",
+   "opciones": {
+    "a": "sensación",
+    "b": "recepción",
+    "c": "amnesia",
+    "d": "represión",
+    "e": "distracción"
+   }
+  },
+  {
+   "n": 54,
+   "curso": "Sicología",
+   "enunciado": "<p>Es considerado un elemento importante del acto perspectivo.</p>",
+   "opciones": {
+    "a": "proximidad",
+    "b": "figura y fondo",
+    "c": "objeto",
+    "d": "elemento ideativo",
+    "e": "elemento representativo"
+   }
+  },
+  {
+   "n": 55,
+   "curso": "Sicología",
+   "enunciado": "<p>La falta de oxígeno puede provocar trastornos en las funciones sicológicas como la memoria. Dicho problema sería estudiado por la sicología ________.</p>",
+   "opciones": {
+    "a": "clínica",
+    "b": "social",
+    "c": "diferencial",
+    "d": "evolutivo",
+    "e": "fisiológico"
+   }
+  }
+ ]
+}

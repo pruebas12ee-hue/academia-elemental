@@ -1,0 +1,23 @@
+[
+ {
+  "id": "intensivo-2025-a",
+  "titulo": "CEPRE Intensivo 2025 – Área A",
+  "preguntas": 55,
+  "duracion_min": 90,
+  "cursos": 13
+ },
+ {
+  "id": "intensivo-2026-a",
+  "titulo": "CEPRE Intensivo 2026 – Área A",
+  "preguntas": 55,
+  "duracion_min": 90,
+  "cursos": 13
+ },
+ {
+  "id": "regular-2026-ii-a",
+  "titulo": "CEPRE Regular 2026-II – Área A",
+  "preguntas": 55,
+  "duracion_min": 90,
+  "cursos": 13
+ }
+]

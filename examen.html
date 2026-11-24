@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulacro · Academia Elemental</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- KaTeX: dibuja las fórmulas matemáticas -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <!-- ===== Modo examen ===== -->
+  <div id="vista-examen" class="oculto">
+    <div class="barra-examen">
+      <div class="contenedor">
+        <div class="titulo"><span id="titulo-examen"></span><small id="alumno-examen"></small></div>
+        <div class="cronometro" id="cronometro" role="timer" aria-label="Tiempo restante">--:--</div>
+        <button class="btn btn-chico" id="btn-entregar">Entregar</button>
+      </div>
+    </div>
+    <main class="contenedor examen-layout">
+      <article class="tarjeta pregunta" id="pregunta" aria-live="polite"></article>
+      <aside class="tarjeta panel">
+        <h3>Preguntas</h3>
+        <div><b id="cuenta-respondidas">0</b> de <span id="cuenta-total"></span> respondidas</div>
+        <div class="progreso"><div id="barra-progreso" style="width:0"></div></div>
+        <div class="mapa" id="mapa"></div>
+        <div class="leyenda"><span><i class="r"></i>Respondida</span><span><i></i>Sin responder</span></div>
+        <p class="tenue" style="font-size:.8rem;margin-bottom:0">Atajos: teclas A–E para marcar, flechas ← → para moverte.</p>
+      </aside>
+    </main>
+  </div>
+
+  <!-- ===== Resultados / revisión ===== -->
+  <main id="vista-resultado" class="seccion oculto">
+    <div class="contenedor" id="resultado"></div>
+  </main>
+
+  <p class="cargando" id="cargando">Cargando examen…</p>
+
+  <script type="module" src="js/examen.js"></script>
+</body>
+</html>

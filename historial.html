@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi historial · Academia Elemental</title>
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+  <main class="seccion">
+    <div class="contenedor">
+      <div class="seccion-titulo">
+        <h2>Mi historial de simulacros</h2>
+        <p>Escribe tu DNI para ver todas tus notas</p>
+      </div>
+      <form class="tarjeta" id="form-dni" style="max-width:480px;margin:0 auto 28px">
+        <div class="campo">
+          <label for="dni">DNI</label>
+          <div style="display:flex;gap:10px">
+            <input id="dni" inputmode="numeric" maxlength="8" required placeholder="8 dígitos">
+            <button class="btn btn-azul">Buscar</button>
+          </div>
+        </div>
+        <p class="error" id="error" style="margin:0"></p>
+      </form>
+      <div id="resultado"></div>
+    </div>
+  </main>
+  <script type="module" src="js/historial.js"></script>
+</body>
+</html>
